@@ -1,0 +1,33 @@
+name: Actualiser les actualités
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Télécharger le projet
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Exécuter le collecteur
+        run: python scripts/fetch_news.py
+
+      - name: Enregistrer les actualités
+        run: |
+          git config user.name "AFRICA BUZZ AI"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/articles.json
+          git diff --cached --quiet || git commit -m "Actualisation automatique des actualités"
+          git push
