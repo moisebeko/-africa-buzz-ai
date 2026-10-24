@@ -1,4 +1,405 @@
 {
-  "updated_at": null,
-  "articles": []
+  "updated_at": "2026-10-24T10:24:11.581471+00:00",
+  "articles": [
+    {
+      "category": "Cameroun",
+      "title": "VIDÉO. Le Cameroun commémore le 10e anniversaire de la tragédie d'Eseka - tv5monde",
+      "summary": "VIDÉO. Le Cameroun commémore le 10e anniversaire de la tragédie d'Eseka &nbsp;&nbsp; tv5monde",
+      "source": "tv5monde",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWFEQWRLX2N4Zzk5TUNuaHdMT0xSSk51QndkRzNURUljU0RxUUVvaTVEY1Fta0txZnlrLWVnSUZ2VzFJVlZqR0hfV1pXQTl6NUxZWVRBYWJ2OXc1QTlDbGx3bzByZ2cxRkFsZnJBdk1zOW4xWkFyNTBFT1V6bC1oSUxqQ2UwN2lhVWhiUDBEemFPYUw2SkVseFh3WU5XZDkzTnpwWG5TRlNpWmY0MjlsYzIxOWxhVmVVY0E?oc=5",
+      "published": "Thu, 22 Oct 2026 03:47:00 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "André Onana dans le viseur de Galatasaray, le géant turc prêt à passer à l’action ! - Actu Cameroun",
+      "summary": "André Onana dans le viseur de Galatasaray, le géant turc prêt à passer à l’action ! &nbsp;&nbsp; Actu Cameroun",
+      "source": "Actu Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcll1cjVZcDR0NFRMczhzX0ZFSXpMQkNIak8xQXhJeExnUmdhU3RxSC1YVjNwWjBLTUdoQzNZem1MY2thSjZVWkVLVE1lYS0yWTdhOGxPYThSbHBsV3pHZkRsTUpGMlpISUxPTG9qWjd3QU5jQ0x5X25ETWRNMEdtSjdfZWpIUHhNM0l1MVJoTWcxUmxGLUw0eG9MaWhJN0JsS0R0MFNFcDd0NEt6Y0UxRUZFYmFkU0U?oc=5",
+      "published": "Sat, 24 Oct 2026 07:39:07 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Le Cameroun commémore le 10e anniversaire de la catastrophe ferroviaire d'Eseka - Yahoo Actualités",
+      "summary": "Le Cameroun commémore le 10e anniversaire de la catastrophe ferroviaire d'Eseka &nbsp;&nbsp; Yahoo Actualités",
+      "source": "Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2lCNF9LQnNHTUdUTjBFbVRXbDNtalpRdE5VU1NFMUxMRXhKbG5QQkpVZTJybHZyYXQ1QTM2Y3g3OWpBSGF4ZzFBVHJPY1EwRlBwOUV6RmVjQjcwVWNzSTI2QW9sWFFoLXFzSmN0QVh2b25QSTVaXzQ4dVEyT2YyVTJ2djE2UHYwaDc5Z0JGZEhTUWhlenBDV2RCQWJEU0V1?oc=5",
+      "published": "Wed, 21 Oct 2026 20:06:45 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Le FIDA rejoint le Cameroun et la Banque mondiale pour accélérer la transformation agropastorale à travers AgriConnect - IFAD",
+      "summary": "Le FIDA rejoint le Cameroun et la Banque mondiale pour accélérer la transformation agropastorale à travers AgriConnect &nbsp;&nbsp; IFAD",
+      "source": "IFAD",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNzFSWEZfemQ3WFNWTnhKRF9UYXlVU0dHaGVybC1TY1U2QlFvY0V1ZUlCaTEtY3NsbjFRcUVfZm1NUXU1TlhhSlliSDk4Y2E3eTlZdnFtalBYZlFTVmpkREprdkVzSUhENXltZi1QaTFpTVVDeXFCUXlPLWJPZmNfYmE2SWNQYlNfTmtwVkd2VXRmRkx2Vm5IcjVjNXhKU1V2bFhMUXAwNU9uLXlpSXNmQ2ppVGxQUHBpOU5FZFV0OEFHVHRzYWhVcEwzakxHTmJXdGh2NkxhQmdyMUNHaGZ6VFM0OXlURzlFdkFz?oc=5",
+      "published": "Thu, 22 Oct 2026 12:57:10 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Cameroun et Tchad : quand le dérèglement climatique fragilise des millions de vies - Action contre la Faim",
+      "summary": "Cameroun et Tchad : quand le dérèglement climatique fragilise des millions de vies &nbsp;&nbsp; Action contre la Faim",
+      "source": "Action contre la Faim",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1JEZ3hZdy0tRi1zVW55dGt4U3haRTh0Y1JvcEJkVkpGV0hKNkNZclJYaGhMRGtDUTVCMTdqZUg0V2VwTFFqenhtY2k3UE9zZHJEdzItM3BJcDg2ZTdQVzVXVnRSUEJqV0hhVHlrbXF3MjNSMEJhazFZdWVUand1QWptSno4eklYZmVfa3RYTmdXVjRkcnhVb21ycUlCalNpeFlYdGJFYXJ4cnByQ1h2bmxWaGZkV2pKUUNHSzhZeVFmT29DN2I4b0x3RkhXODM4SHc?oc=5",
+      "published": "Tue, 20 Oct 2026 15:44:21 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Cameroun : les taux des eurobonds s'envolent après une dégradation de Fitch - AGENCE ECOFIN",
+      "summary": "Cameroun : les taux des eurobonds s'envolent après une dégradation de Fitch &nbsp;&nbsp; AGENCE ECOFIN",
+      "source": "AGENCE ECOFIN",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdTJ2RzZ1ek1pU2JJVXRqVzFwQjJ4a3UyR2JFYzh0dnluTW5NTkdzWVdwZVF0a2NkR1c2YWQzekxwMUp4b2hGRF9DR2ZqajR5QURYTUw0QUFWY2VhdHAtRjhWMUU0NDVQSjZYamJIRlI1NGxONlBIRllnZEVpSFgyQlNaWFBsakdveWhvb3ZldElvcnFZNjRYdC01QjAzUzhNYXFYSUxERVBreGJrcEVLSUVLYVFxN1N5ZEVoQUdYbm00NU1PZG5UTUY4Uzk?oc=5",
+      "published": "Tue, 20 Oct 2026 10:11:00 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "CAN U20. Le Cameroun et la Centrafrique valident leur ticket pour le Ghana et s’affronteront en finale - africaradio.com",
+      "summary": "CAN U20. Le Cameroun et la Centrafrique valident leur ticket pour le Ghana et s’affronteront en finale &nbsp;&nbsp; africaradio.com",
+      "source": "africaradio.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWFBqcVIwR0FVYzBsS3lrT3hvM1RKemRDcm5VMGlyUVRsMkdSRU5BQzRQUFVDaU5NWEZFUjVieklwNExKcFEwZUFvV1VGbUVBZWhNYTVpNmg5YTBkZkRRVzd2VEJ1dHBpWWdjVDZOcVk4TXR5bUdlOTU3cTZpby1EU0FGRm45Y1dfV0NpRm5saXBiOEJ4a21pOXNhSFgwUE1IOEE4dF9CcmRDU3NvYzhCRW5obmZRUXZYY01mcUdwT0pPTFhsdUJQc2l0OUk4TGRZSjMyVFVSNzBVQ0paMmhOZ0JB?oc=5",
+      "published": "Thu, 22 Oct 2026 07:52:59 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Affaire Martinez Zogo au Cameroun : Paul Biya a demandé des explications à Joseph Beti Assomo - Jeune Afrique",
+      "summary": "Affaire Martinez Zogo au Cameroun : Paul Biya a demandé des explications à Joseph Beti Assomo &nbsp;&nbsp; Jeune Afrique",
+      "source": "Jeune Afrique",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWG91NE1QLTdMYmNtTnM0ZnlYNFFycWdhSTdWbUJaQVpyNXc2UWZiOHFjajR6cVFYd01kTjR0SWxqNVhDYWs1NEt3ZlFNUWJnV1lmMFFabHJxTExqZ05RanVxRGF4dEtjLWVabGtLcXdycnplRUs3b3gtSEhCZ2ZnOWNLSlpOZmVyQUI4c1FzNDFSdXg0akhRUHVnQWZvRVVJcmJoUG9nUjBfZU9Dd1lGdFVJOUFxZzFwaERKSkVvNTNXczdUcWgtUVUzMjVldXlkdTNmaEFB?oc=5",
+      "published": "Thu, 22 Oct 2026 14:09:00 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Mondial U15 2026 : les Lionceaux du Cameroun frappent fort face au Sénégal - Actu Cameroun",
+      "summary": "Mondial U15 2026 : les Lionceaux du Cameroun frappent fort face au Sénégal &nbsp;&nbsp; Actu Cameroun",
+      "source": "Actu Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeU9ISXBVclI1NGxGcmxFTjhfZjFYSHRTZG1BUEtWY0pJVTJjRmdjQmg5SWg0SEFSb001NWp6MGtUMTNkSl95aXIzb3lTZ3gtaThYcEtqUVFaMHU1amVqS0hzUmR2TlNzZVdLbnAwZUYydWRhSG04QU90U1ZCbFFoUUJlRmlKN25MY0Q1RWtubHY3NVVLcFRicm9NTmtZTG1tNFdFZXRpdmhEd05tQmc?oc=5",
+      "published": "Sat, 24 Oct 2026 10:09:20 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Non, le Cameroun n’a pas rendu obligatoire un test de paternité pour chaque nouveau-né - Yahoo Actualités",
+      "summary": "Non, le Cameroun n’a pas rendu obligatoire un test de paternité pour chaque nouveau-né &nbsp;&nbsp; Yahoo Actualités",
+      "source": "Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzY3VDaE9mdU4zTlo5WjZGQlNwM0FlWlJnM3ZkTlk2M2JEeUZEYm5TVTd1VTM2OFh4aXJpY2tCSWk4NXJhX0F2Y1ZfS2pZbTJNRFo1c2JnN2JSSG1pZkkya0Z2alFiY1IwWF9LMzY3Ti1VYnVPeTdKQjg3cm9hTHc?oc=5",
+      "published": "Wed, 21 Oct 2026 15:07:24 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Guinée: le Royaume-Uni affiche ses ambitions commerciales dans des pays d'Afrique francophone lors d'un forum - RFI",
+      "summary": "Guinée: le Royaume-Uni affiche ses ambitions commerciales dans des pays d'Afrique francophone lors d'un forum &nbsp;&nbsp; RFI",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNTVEZ3RMdThsc0xob3ZaNFU4VUxsQmd0aV9hQjJRR2lTYnNrYmwyVzcxX1k0Sm9LVU5VNU52eFVMMzJwY3RYcUJHWkhRZG8xQWlhTWl4NjlSWkliY3JTcnFfdDRPWEt0d001Q1Vfa1NNdTU3UEJTTTJPUHV1OXRDbGJna29vRUppLUF3VGpxOE4wQTR0VE1WZFRmc3lhSHkxV2R1TjFLczIwLTRCVjV3dGNGVDVsc3FGWEhuYlczSHlvTnFNMEFZTVRXRHdua013dUNKcUpreUtqc3R0Smg4a1dGNUhPbTQ?oc=5",
+      "published": "Thu, 22 Oct 2026 12:35:59 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Afrique: Revue de presse de l'Afrique Francophone du 23 octobre 2026 - allAfrica.fr",
+      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 23 octobre 2026 &nbsp;&nbsp; allAfrica.fr",
+      "source": "allAfrica.fr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QkV3TXhDZnFYb2tieXFrSjJHbFZuVU1qUTg0SHFhaGxGNE5SRGU2eTdiOW9FZDZ6UHBmUzk3VDI1UlZvUHh2ckVEdFl5LUJhYkExNVNuTmxNUWZnVF9z?oc=5",
+      "published": "Fri, 23 Oct 2026 09:14:14 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Industrie musicale en Afrique francophone. Pit Baccardi, rappeur, cofondateur du SIMA : \"Il faut que l'on se structure\" - africaradio.com",
+      "summary": "Industrie musicale en Afrique francophone. Pit Baccardi, rappeur, cofondateur du SIMA : \"Il faut que l'on se structure\" &nbsp;&nbsp; africaradio.com",
+      "source": "africaradio.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMHA5RE5Dc0ZBRmZudWJZSlg0OFpHLWc2R25VV05Menc2RTZ1ZWpXUmpvQUJ5ZEl1U0FxY3I4cXBzWVBQUHh4WlQ3SGxnZVJKSmxmWDktaUlSY3o2bTFaUENodm4tQWxpY2V2Z3AwZFpMWXJuSkF1bTItN0g4ZHJKLWhFSzNjeVBGdHZFLUtTZDExWWZxVmt6bXF1UlpGWDNKRWRUNF9zTGhhclcyWUE4N1hScUFXZ1ZlS29CVDU4d0ZMc01aSEVYdHJ6RjZqS0lrLWJObUh2VmR1Wl95aHE5dXVoTQ?oc=5",
+      "published": "Thu, 08 Oct 2026 05:55:00 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "«Il faut plus d'argent dans l'éducation» pour relever le niveau scolaire en Afrique francophone - RFI",
+      "summary": "«Il faut plus d'argent dans l'éducation» pour relever le niveau scolaire en Afrique francophone &nbsp;&nbsp; RFI",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONGxQS01QcVdBa0pYYjJaSFRXUlhlM2QwTm1WQUNkRmtiMGdQMnNmV2J0ZThEQ0Z0OGhPQ04wQUN6cHRlYklMU05UU014LU0yUWlaTHpydXlDbndyRE5SeFM2cTRQNnA0QldHdlc1QXhFa2haQURWTGUyTm9LSzdaMGtCRjM3QXNLVkJ0aTNGN25rZ2RvSFAzRWFIVUFLZlQxOFQ3SEVpYXBUUEFVV01NNmR4SDNGWmRVSmM2ekVCNXJUQXBXOFEyTF9VMEpYaWZ1QllHbXZyazhaYkNPZDdNWWk3cXlxWjY3bFFDT0c0U0FqbVJialE?oc=5",
+      "published": "Thu, 22 Oct 2026 14:13:47 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "ELLE Afrique francophone arrive sur l'antenne de TV5MONDE - tv5monde",
+      "summary": "ELLE Afrique francophone arrive sur l'antenne de TV5MONDE &nbsp;&nbsp; tv5monde",
+      "source": "tv5monde",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tUGdlVlVVaWpoMTJtZ2t1ZkFON1ZFYVZtTUh6ZFYtTkt3d1FDMWFqeUFTdHhXQktyUjc4MFNlekotSnNZdzMzUEF2T3c?oc=5",
+      "published": "Wed, 16 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Rapport Anthropic : cinq détournements de Claude liés à la France et à l'Afrique francophone - ActuIA",
+      "summary": "Rapport Anthropic : cinq détournements de Claude liés à la France et à l'Afrique francophone &nbsp;&nbsp; ActuIA",
+      "source": "ActuIA",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHNKOVVFNUQwdk4ycE1RMjR2TG9CSVhrMUhmTDlTR3Z0ZkkzbEREWi1xdm9lTVpSVExPc2ttMWlJU0JDZUFYVDdGcVdHenpTM1F0ODUwX0JOc1BGNGZlbl81bTcyYzhfUzcwcVltb2NzOXdPQlJXZXNuR19DWm12LXF1SXVSaXBGREtTRlFudEI1T0Foblh1QzBMQ21EVjNNMVpSX0puVWQyR0FVbzRsQXhjRGU?oc=5",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Afrique: Revue de presse de l'Afrique Francophone du 22 octobre 2026 - allAfrica.fr",
+      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 22 octobre 2026 &nbsp;&nbsp; allAfrica.fr",
+      "source": "allAfrica.fr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOb0Z2WHhYUVVwa0NUNGVLZnNoNWkzazBIZ0t3T0xIOFMwM0huSnI2YkEzdE4zYldIVzhraWdqMUVUalR1SXgxc2JmYW9uTjk3djJncHVJT3lUMnJ4ZHlZ?oc=5",
+      "published": "Thu, 22 Oct 2026 09:03:44 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Ghana : le premier salon du livre francophone veut faire d’Accra un carrefour linguistique en Afrique de l’Ouest - Africa News Agency",
+      "summary": "Ghana : le premier salon du livre francophone veut faire d’Accra un carrefour linguistique en Afrique de l’Ouest &nbsp;&nbsp; Africa News Agency",
+      "source": "Africa News Agency",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSlI5OFdlMzJpRU12TE1FMnJpY0NEZDh5UGUyX0RkSGNwS0J1eWdaMWM0S0UxVEhMTkI1RnBuLW9aTGFXQzdNVGVlaV8yVDlNbXJiMXh4a1E0UERPdHM0azR6bzZjRnBXZDBnS3QyalZ2bGhTdHBPTHJON2NZTzZHMjdwZXBnaHpOOVpHRUFXd2EtNERyczhJMkxmVno1T25yX1MzVE9GR3RRdEtabFV4V0dhSHBwZEkwTHk1UE9qUFhxOTlLTHRhREdndDgtNWRTSTJlc2Y4SQ?oc=5",
+      "published": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "POINT DE VUE. Afrique francophone : la perte d’influence française - Ouest-France",
+      "summary": "POINT DE VUE. Afrique francophone : la perte d’influence française &nbsp;&nbsp; Ouest-France",
+      "source": "Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeWRLSE1rS2M1Y1dYNV8xSWlMaXk2RjJaN3lfS3JoNjFXMHpiQXJjOW1rMVNINFRqdy1TQk40SE9Cb3dPa2pyZGhoU29mOGJKck0wMjZUTFhhWVh5SGdITUVYVndNSmtfUzJHejZjMVpEQ1RnNVhYVk0wamMxdi1LZ1pfcExzYkJMUW9lQ09BM1BVYjBXSWNLU2xTX2hLRzFfSTlSV0pBLWI2SU4zVkFZbU50dXE3VG1LV3l3TTNkVVUzVkxYelo4YUFFR0pKN2ZBR2hZ?oc=5",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Acquisition des coupes d'Europe masculines de football en Afrique Subsaharienne - Groupe CANAL+",
+      "summary": "Acquisition des coupes d'Europe masculines de football en Afrique Subsaharienne &nbsp;&nbsp; Groupe CANAL+",
+      "source": "Groupe CANAL+",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45bUZuOTVsaXliZjBHeXIxejlPN0JUZi1XUUUwdlVjckRpQ1RScTM1UC1sV2dpQUFRNVRxbUdHa1JsdVh0RHJvZXN0UnBhT2sxSzByMUlzaldERUtsZ1E?oc=5",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Le Cameroun élimine le Maroc à la CAN, puis lui passe devant au classement FIFA - Bladi.net",
+      "summary": "Le Cameroun élimine le Maroc à la CAN, puis lui passe devant au classement FIFA &nbsp;&nbsp; Bladi.net",
+      "source": "Bladi.net",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUlyZGI5TkgwSDBpejR4b0JSWHNEdWFVN0I0S3lsNTBvMzJCMmpoaG8wcUdOcXZNbVdNZmZBaFNrU3RXR0NmM2N1UTdwWkwtWkYySnJQOVYzdzVDYXZvSWFZRi1oTzZMUWFQV2tSbHZaSjlrYVJ6NHZMM3laZnd5cHR3SFRUVk5xcnJoelRoWE9RTzN6ZDFfLUNaVW5IZmhlbm5xQ0pIdlRmbzRrMFprTVRn?oc=5",
+      "published": "Wed, 21 Oct 2026 19:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Football : La Ligue 1 McDonald’s explore en Afrique - News du Cameroun",
+      "summary": "Football : La Ligue 1 McDonald’s explore en Afrique &nbsp;&nbsp; News du Cameroun",
+      "source": "News du Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NOWlYWXgyRnFjY1BtVHNrb2NjSnFOT0t2c1ZsZzlRMWNDcDFIMkl1QWNJZzFIaHVtczJXRFVVUml6cE84SGZPQkxnWk8?oc=5",
+      "published": "Sat, 24 Oct 2026 01:02:03 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Mondial féminin 2027 : Algérie, Maroc, Cameroun : Déjà un jackpot record pour l’Afrique ! - LeQuotidien.sn",
+      "summary": "Mondial féminin 2027 : Algérie, Maroc, Cameroun : Déjà un jackpot record pour l’Afrique ! &nbsp;&nbsp; LeQuotidien.sn",
+      "source": "LeQuotidien.sn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1Y4aTVuam9GYnRYODhwNlBlYVBZNVlzQjRPMG9nMFJrdElZZUtPOFprVzhDY1FXbUZBV0ZLV3Jqby1RM0Zhd3BreXI0aDNPOUhDNklDc052bUFxLWhmbXRIV0pjNmlmQmpHMC1KWXZxRl9Sc1B3Um03MTJOU0VZV1VyaGp0OEJuanlsR19aSjBYZk5FcGpOamtsRGlTMWVBYVpTa0hndw?oc=5",
+      "published": "Sat, 24 Oct 2026 07:35:06 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Jean Manga Onguéné, la «tête d’or» du football camerounais s’est éteinte - RFI",
+      "summary": "Jean Manga Onguéné, la «tête d’or» du football camerounais s’est éteinte &nbsp;&nbsp; RFI",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0tsWTA1T2h2OF83U1BlN0drUTNnZm9QWUpKSmk0N3Y3NUNTMTVpeXRycFBrM0ViVUZUZ3AxdGwtWm0zOEVXbXluTmItZVhDOGpybjR3Yk9STDkyR0NBY2w3eFpPcVpoeGZVQlBHZ3ZaenBBWVNESXF2NmNzTUhNU2VydC1TWXB1NFBKUHF5S0lPQVlaSG1fVnkzeURLV01ycC1DQ2RnQ2dfRFpxT2Vxd0k0YXdjMzh6UnU3TGhwSDJ2RllvdmJWMU1Rajk4Zw?oc=5",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Ballon d’or africain en 1980, le Camerounais Jean Manga Onguéné est mort à 80 ans - Ouest-France",
+      "summary": "Ballon d’or africain en 1980, le Camerounais Jean Manga Onguéné est mort à 80 ans &nbsp;&nbsp; Ouest-France",
+      "source": "Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaFFRb19kX0VxZkJnZHBGNkJiXzJMN292QzdBT3g3OEJaNm9Pd01LcmlITWpZMmlkT0ZWbEJUR19FS0drMmhQSTk2cGV6UW1IYzdKUE15clFVREh4UVlsZGtNWWV3U2I2bUt4ME1XQUdKOFUyMFBsb3V0VW15c3RMakoxYVg0NENKRFM3TFZZM1NiQUdfc2MxcXZKdTIwX0ZMUXRJXzdrT0F0QXpRV0tKcjcxaGl4eTBfVTk3d19PMU5OUHBBemcxVHpVNGt5b1Ixd05qRzM4QjEzejF3RHFOUUNqb1FYbTRZODBLWVREVUs1MWItZWRMdVJrT3hHc3BwTTgydkx3?oc=5",
+      "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Congo-Cameroun : à quelle heure et sur quelle chaîne TV voir le match des qualifications à la CAN 2027 - Le Parisien",
+      "summary": "Congo-Cameroun : à quelle heure et sur quelle chaîne TV voir le match des qualifications à la CAN 2027 &nbsp;&nbsp; Le Parisien",
+      "source": "Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQc19URlZNOGVUVDUxMFZidlRQcWlZcXVJM2x6ZmxCY1ZUMkttdFYzckhUbUpMdnc1S0oxd0hZOVVRRVJlWUlJWmNDRl9ZbDVCeEZ2VmJLRktYZEZkc0dRUnM0dFBZTlVXWE4wbkhsNy13V3Btd0M4NF95c2xvb3pzS0d1UVoxZm9tWUZ3SnVibzYtcjNkUl9rMUdaZ3ZyQUJ2Nzk3T3VfMkpsRXRyckllTDQ0SjBEN3hTRERCeUxKOFhaYThqWDRLVTlvY1pQdXprUnZoSUplaDNYZnQtWTRaWVJwZ3Z6Qm9tN3JhNEFkQ3hCQWJhWmQtTDZNWkJfeUZNZXJEMmxGM09vNkI2UkZpZFlKZTViY0tJTVBhQ3ducHVKUHhDSTk5dFlVeEJSajRGRWZKM2tlN3ZJRTA?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Congo - Cameroun en direct - Qualifications CAN : Football Scores & Résultats - 29/09/2026 - Eurosport",
+      "summary": "Congo - Cameroun en direct - Qualifications CAN : Football Scores & Résultats - 29/09/2026 &nbsp;&nbsp; Eurosport",
+      "source": "Eurosport",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUJWbFdkLWNPLV93dDk4RWpGV0k5dnFpX1ZZVk5SSGlJbDFmcHp3RVhOUUQ4SndPaGJ2NFgwb1doRzdtZ0hhYmxlUHY0X3N3bmd3aU0zZWM3cGI2bjRRc0dIUWI3U0U3dm1fOUx6OVg0VUFhSjBQdGsweWZPSjZVZXFuM1d1aFR4Vk1uT2JHbFhYV1VOMkYwUllZMmp1U3RhSVE?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Samuel Eto’o, le président de la Fédération camerounaise de football, accusé de détournement de fonds et de blanchiment d’argent - Le Monde.fr",
+      "summary": "Samuel Eto’o, le président de la Fédération camerounaise de football, accusé de détournement de fonds et de blanchiment d’argent &nbsp;&nbsp; Le Monde.fr",
+      "source": "Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbWtuTE1xQ1FjcE16TkJldk1xZjdvMzl2MjJjWFZLS18wUjRGVkZMQ09UODlVcFd3LVVabGVNTEt3UG1lOVR0WWF3SU9Qdjc4S2pRUEl5TXVKMnlaeFM4R1F6WExrZHcyQ1RZLXJXLVh6S3liZTVZb0szTTMtdGl1UklZLTBFQXJZQWRmWXBCREVmdUNBMWh1Ni16eENJc0FTeDVTMlFYVmdpQVpsaXpXM0Q0NzRibTRwTUR3SUZFdTNQZThBTmV6UTlHSmdzOGtCb2ZnaW9qUmRXQklTUmdjd3dSSzhVRTcwY0tEWVpmaUNQNDlIbHE5LUtNTVJFU3RVV2pVUUJEanNPMHlfdEFXZ3g1NkRPbkI5cW5yMFFBdw?oc=5",
+      "published": "Mon, 28 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Cameroun. Jean Manga Onguéné, légende du Canon de Yaoundé et des Lions indomptables, est décédé - africaradio.com",
+      "summary": "Cameroun. Jean Manga Onguéné, légende du Canon de Yaoundé et des Lions indomptables, est décédé &nbsp;&nbsp; africaradio.com",
+      "source": "africaradio.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXJndFRnS0hDRGFzYmM5bTNXSjcyM2dKNzZiVlkyMlk2a19BTC1aLTdXRThQM2IzaGgtRTdlNUQyUG96aGE2ODRxeXlQcFM3SERFZDJuS1NvQ3VPa2g0dnVyakVhTnk5ZDhwVnhiMjdGMS1MNUFfdnd2bWVLeDdHTWpUSktYX3Y0a2xUU3pCYkFYYXNXTnZMQ3EwbjBiOExNZjAtTXREeW5VbDdKUUNYbFJaQ3R3Tk50a2xQdkZFM0RpVW9ZNFFDcXFkZU1jQ1ZtVDdF?oc=5",
+      "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Éliminatoires CAN 2027 : excellente opération pour la Côte d’Ivoire et le Mali, le Cameroun accroché - Foot Mercato",
+      "summary": "Éliminatoires CAN 2027 : excellente opération pour la Côte d’Ivoire et le Mali, le Cameroun accroché &nbsp;&nbsp; Foot Mercato",
+      "source": "Foot Mercato",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWldGUDBZWThRYjdaVDA5b3RNckZNQjAzUHFFanZDUkJ2YmlUb2g3bHpnMDlkOWQ2TEd3eFJmTEFVLXJwN3RubDFmZ0xjdFEtbFFGTFlJeUZtLXd2V2xKdHQzellZdS0taUpsSU5NR0lLWG5lRG1FUzlNbTIybTU2bWtkVDRPUlh3aUdaWElOUzVkOXptUk1jOHZFOUlOTnRvMUhMbk9SYi00cnRRejQyS0pqX3NkdEM1cy03VVplQndDR1BQWXZ3d1prb2V6SjhHX3VFX3d6akVubkZXR1E?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Il joue 8 000 heures à ce jeu vidéo et explique que les 1 000 premières heures à elles seules n'étaient que le tutoriel - JeuxVideo.com",
+      "summary": "Il joue 8 000 heures à ce jeu vidéo et explique que les 1 000 premières heures à elles seules n'étaient que le tutoriel &nbsp;&nbsp; JeuxVideo.com",
+      "source": "JeuxVideo.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUUF6Q19BbWd1UWNfdFB2Um5uSVdIUVFCbFBpZ2R5WnNGcDFLbERaYmh1N1NaZ3BTWm9YMWFGZTZvYVA4OXZlVlhTbkItTmRoTzRtdFBOZGxHczZTZWNDRHFvbm9ZQkZueUtfemZHSTF2c05MamNWaGtVTENpb09ibFBBaFZPeF9ZYjhobkpKNm5tWHFnZWoyZGtUU24wYXV2R1RmTHVhcmJWNFUtYUtLd0pwclYtUGRTMmlEd2RfdXZMbnF6NUN4YzFnYllQX1hKWWJ3X3dkMnNKRXZpM0dRaXpBNnZNSFliWkhLdVlCaw?oc=5",
+      "published": "Thu, 22 Oct 2026 15:15:13 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Le jeu vidéo est-il politique ? Spoiler : oui, et il est de droite - Yahoo Actualités",
+      "summary": "Le jeu vidéo est-il politique ? Spoiler : oui, et il est de droite &nbsp;&nbsp; Yahoo Actualités",
+      "source": "Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORzR2cjladW9aTVlvY2xRODVBX1V5anZTRzhVV1Jzb3p3MDZzZTM5TXppckxjbm1mSVNPQkRZSlQ3RzVncS1MN296SGtfTzN1Y0R1dlk2cmxYQTBKdS1tb1Z6Y3NkQ3M0UHJNN3VBek5PVUVBSU05a21QUzlaSmVBejhxRFFUQ0E?oc=5",
+      "published": "Sat, 24 Oct 2026 09:02:36 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "GTA 6 : faut-il s’attendre à une vague de licenciements après la sortie du jeu ? - Journal du Geek",
+      "summary": "GTA 6 : faut-il s’attendre à une vague de licenciements après la sortie du jeu ? &nbsp;&nbsp; Journal du Geek",
+      "source": "Journal du Geek",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWV0OF84bGp3a1A2UjZtSUZwTFV5NDZvYUlNWnhGb0dIbkpQQjJrWGpSMUhXVl9PX2RReENCMWdEWGdvalBVZUlSOWE0Y0J3MFNhVUtaNTMyVGFaekllWF9ZRGpHZnhPRUc5NDVlTXZ1QTZSeHZnMFBZaHBPM3A0dElLQmsxR0lmV2Q5amE4ZWdkaGlkR0RKZnJGeWNNM01YVHM5WDFWa25xMVZFaUNSRE50WkdmWEo0?oc=5",
+      "published": "Sat, 24 Oct 2026 08:04:30 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Le jeu vidéo est-il politique ? Spoiler : oui, et il est de gauche - Yahoo Actualités",
+      "summary": "Le jeu vidéo est-il politique ? Spoiler : oui, et il est de gauche &nbsp;&nbsp; Yahoo Actualités",
+      "source": "Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2MzMm9UaGl2UWxDT25yTFBtbS1FSHg2MndFbXdYVWRRMzFSdUVReHNuMEVxTHdiY1ZuUlhZdUJCZ2c2WTJTOUhCVVRoSFlNNGpwSDBRWjZNcVVGTzZNWW91Zm9rZFZmZER3NjRFSV9FNXk5QlE0VnhvSGpZTVptWlFvTUpIekU?oc=5",
+      "published": "Sat, 24 Oct 2026 09:02:37 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "GTA VI, Zelda, World of Warcraft : quand les sorties de jeux vidéo poussent les salariés à déserter leur bureau - Le Figaro",
+      "summary": "GTA VI, Zelda, World of Warcraft : quand les sorties de jeux vidéo poussent les salariés à déserter leur bureau &nbsp;&nbsp; Le Figaro",
+      "source": "Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHU4RmEzRGc5TWlXX1d0MTU2V25ZWHlQUEVBeFo2Z29JTzQ2LWVWWlNKMG5ka3VDdkpQZzRrSEktbmQ5Q1ZLVzZuOXhKbW5qWkxkeEFDYWhtT2w2b3B5dEpYakVLS0s0OVNQZnlZV05KaHgzUE1zbWhaU1RaanV4dVZwTWxJTTk5NjdKSDh1UmU3TDktcElaaE1pVHl4OGxNSk9QaG5vYlc0MFFhX1RJcEJOc3YyX2VldHJTQjVTWkF4ZXNTbW5Ra2pweWk5SXhuMHcxMFliU3dsUnA2c1NWOVZqdzZhV1FVVi1aUDZ4SQ?oc=5",
+      "published": "Sat, 24 Oct 2026 08:00:00 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Redonner le pouvoir aux joueurs et rendre les jeux jouables éternellement: La France Insoumise dévoile son projet pour l'industrie vidéoludique - BFM",
+      "summary": "Redonner le pouvoir aux joueurs et rendre les jeux jouables éternellement: La France Insoumise dévoile son projet pour l'industrie vidéoludique &nbsp;&nbsp; BFM",
+      "source": "BFM",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaEpwT0FoNHphOVFNYWh3dWZuWm11NG5KbnByaWd1b20xalFueXplZ2l3elJUQmlFZnMwQUlaUDZseDN6Nk9FUlY0dmxoOEliNkUxNzR1MFlONEd3OXhqNFhjWlRZWmZXc0I5VEQ4WG9JMnFwWHNCRm1PNG9LSjZXNUo3bWduY20tclJoQkNMZEJXa3RiajBaakF0RDU2ZGVVNUlrZGZMMDEzT3FTNWR1STZfUEFsMTdiLXhnSTh1cW5nOUF0YVV5T0hOR0VJNklCMG5Bb0ZDbkJSZGd1WnhvbnJodEZpOVd2aE14dFVQU0xjb1c0UVpLTENuUjRWOXhrUkRtcElzS3l0ZkJPS2FPcjZYWXZJVlBxZ010OEk1TVZmUEU?oc=5",
+      "published": "Wed, 21 Oct 2026 08:01:56 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Paris Games Week : comme les héros de jeux vidéo, les joueurs vieillissent aussi - Orange Actualités",
+      "summary": "Paris Games Week : comme les héros de jeux vidéo, les joueurs vieillissent aussi &nbsp;&nbsp; Orange Actualités",
+      "source": "Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFhSTVZvT0w1c3BzM2J4X0VXaklnSVVsVXQyX18tR2VteDZwOER1LUtEakZkMnRDcEhCQjFEQXJKVGF1a0NQSzZITnI4Q1h6XzlUSG1Rd2ZFOXNQRFlYWXVWTmd0eHU2cWN3OXlqWEQ3emtPTGp2N0lBbURlTkU1Nlg3SjF4UE1PaXdObDczUmdtSXlEelBaWTRPblFudzVkNVRJT01QVjdVTHc1QUJweWdOdUN1T200Z2RvdW5YU0hzM3RMWFNtWlh1UndyWnZDcHJEQQ?oc=5",
+      "published": "Thu, 22 Oct 2026 17:57:47 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Paris Games Week 2026 : le jeu vidéo attire les joueurs, mais les studios français restent fragiles - GinjFo",
+      "summary": "Paris Games Week 2026 : le jeu vidéo attire les joueurs, mais les studios français restent fragiles &nbsp;&nbsp; GinjFo",
+      "source": "GinjFo",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa2lZX0FrMXFVQlNMTUFKalRLWUJEcWNQWEJjeDZjVlBRRXcwVHpYOVAyR05PN2ZSRnBSTGlTYXFnZUEydjRWNUpjYVpJWTdiTjlRZmNVOVlRMnFmSXVNZGZwb1h3TTlKc0pvOTZjWHdiMlc4N3dEMzBjTjdaTzZxaThsT1BNOHBMM0lxWEVDdzJaZkhqWTlJZTRSdmZxeF9hUm5JYUdsSFpvaGd2NzE5NXJZSlNubFJZcTlhX2djdE9kX3I2bEl4dURSOXlMQndkb0xmblRhV244WjZrZGZ0Qk9MbzBWZXZoelNJcWhKQ0dGZnk5OFBvWV9wN3MxZHc?oc=5",
+      "published": "Fri, 23 Oct 2026 09:21:54 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "FIFA, GTA VI et \"kidultes\" : Daniel Riolo dézingue les gamers de plus de 30 ans sur RMC - La Crème Du Gaming",
+      "summary": "FIFA, GTA VI et \"kidultes\" : Daniel Riolo dézingue les gamers de plus de 30 ans sur RMC &nbsp;&nbsp; La Crème Du Gaming",
+      "source": "La Crème Du Gaming",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR09icWN0Q3A5NHZnb1lLaXBReTlzdFZXLU9pRktMRm5RWDRxOW5laVdUTlIzR1dPMV95OXRzQTJWamh5ZUxQcVBob1EtaDhkbmY5X1B4T01UOWtCZ2pWRFlIWkhSX2k4d25tR2xma1poTUNOMG5LTWI4aUliNUJialdVclAwVnBzSUdjVnBoUnY3WGwzUkhJRE9HNU5qQXd1Q0JrTFhRZ2lOcVpaVVc5WXRJcG5aeC1JNG8tcG1IWlRvLXNOUDBXOFMyOA?oc=5",
+      "published": "Fri, 23 Oct 2026 08:56:22 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Fermeture de BioWare : la série Mass Effect de Prime Video est-elle condamnée ? - Les Numériques",
+      "summary": "Fermeture de BioWare : la série Mass Effect de Prime Video est-elle condamnée ? &nbsp;&nbsp; Les Numériques",
+      "source": "Les Numériques",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzVrTnNnYXRSMzVjUVRDRTBSVlRLZlEyM3B3U1JWZ2drckFjbXZMLTRnVXdNaExQeE5TeVVCUmFOSXZ0enR5SEQ4VEpuMzVweHIyT21TcmZiM3hvN1VsRUtTZ21sZ3JwYTJGR3g4alpmdDRKOHBiYmFjMmZqc3dOYUM2SEhITEhvbVlpYjQ0eFFWak5wUkluYU9Tdk8waUtnSG5Ob095Y0dtZW5iZjgwQU9WYW40N01abDVhUFlQQ3h4M3VUaU1R?oc=5",
+      "published": "Thu, 22 Oct 2026 10:28:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Googlebook : des apps Android posent déjà problème sur Intel - BlogNT",
+      "summary": "Googlebook : des apps Android posent déjà problème sur Intel &nbsp;&nbsp; BlogNT",
+      "source": "BlogNT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVi1VX1VTOWlxMnVCOTgtUWFTSklzRmFPRkNOalNzMDRvalluN1BFbVJneDdsWVR5aHpHY1hfbHl0VW9KNEczWDhFNW9uZ3NSVWZuN1J5RVl2ZXI3STcxMmFxYmhYMUtTUURhMjVlcVQ1TUZtLWdCS09BeDF2YmVNbEotQUx4by1XNEVnZHFxWlB3OGc1NzJrYTVCQWsyRlU?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "X : l'application Android entièrement réécrite - BlogNT",
+      "summary": "X : l'application Android entièrement réécrite &nbsp;&nbsp; BlogNT",
+      "source": "BlogNT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU25NZGM4Z0xRRzZpTHN2WTVJU3NuNWYxeVBVME9vZFRENng5ak1KT05tMjgzVW1jWENFbnpfQjZYLU80VFBqSmprdDF1eEQzMjhsMFhzQWp5LU5yUHFSbjhpaW00UUVsNk1qYVJUcXRnMlNkazl3d09mRHczVVVVdzk0WkZRRHRPUzBDaThWbTJLcVE?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Android 17 : Google déploie la fonction Continue activity - BlogNT",
+      "summary": "Android 17 : Google déploie la fonction Continue activity &nbsp;&nbsp; BlogNT",
+      "source": "BlogNT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pxQVZYelotRmQzR2lYa0NmdnI3Z0E1WGVsU2YzNFMxdlN4b1p6b3IzY3U4TnREUjVRV3Vvc1NkaW1BRi1HOC1YcG1wSjFTZFMwV21ld1FfMHJkTy1CMVROWms4dlRlS05hUEF2U09jZmhKcFA1NHlnVFRnVkhRSzVaTW5ObHR6YWlzeGRuVQ?oc=5",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Meilleure application Bourse : les meilleures apps mobile 2026 - Cafédelabourse",
+      "summary": "Meilleure application Bourse : les meilleures apps mobile 2026 &nbsp;&nbsp; Cafédelabourse",
+      "source": "Cafédelabourse",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xJSjBiZlU2ZkhOenZVaVpjdzlnekprdW45Y2tFc1piX29QZ0JqQU95SGhGRzRtbVZaSl9oa3RSaXotMUZqbGlFSTgxb28wbEdhWGMyLVJrR2NRSGhUemJoc2NiVUR5UzlJR1lkeGpHaVZkS0pfNmxpcXlRcWNocFRiVXhQaHlfczJlRlh3ZHc0UWtBVC0yc0otYVh3S0xzU1VEVUJmbFRZNEN1em5NYnFoVQ?oc=5",
+      "published": "Mon, 23 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Permissions dans les applications mobiles : les recommandations de la CNIL pour respecter la vie privée des utilisateurs - CNIL",
+      "summary": "Permissions dans les applications mobiles : les recommandations de la CNIL pour respecter la vie privée des utilisateurs &nbsp;&nbsp; CNIL",
+      "source": "CNIL",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWh4RU01eGtuSkFkQ3hXcEN5UjA4WVg4YmlpVlJ0eURHRDZ2VlJNZUdlTjhIaWhsVWtjelkteEhkNUJQM2xmSXk0S1Q0ZFE4X3RoYXFWUWpaQzQ1S0dvSXR3M2lYcUFlaDZqeHNIdGh5ZXAxVTNob2psZVZUbWU0dkpUeFlxT1R1LXVieHBSekFIYkFGcFdubmhNNlNBU1RkRGJRRDNGaC1kbDlGTFVZVA?oc=5",
+      "published": "Tue, 14 Jan 2025 08:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Cette nouvelle application de Google laisse l'IA prendre le contrôle de votre smartphone (en local) - Numerama",
+      "summary": "Cette nouvelle application de Google laisse l'IA prendre le contrôle de votre smartphone (en local) &nbsp;&nbsp; Numerama",
+      "source": "Numerama",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3ljR3Q4V1BCczQ5WWdZVFNudldsYlp2X3ZCQTVxWEpuZm1LN0pLbDlxSWNxUlBOOVhXXzV6bWEzNWxRNmFpXzJnN0hmcHYwM0p3NXhXQ1VGQkczVDJFUDlGenRNc0Q1WU1GVjZjWXNKMzd0dmp5UW9lNjB1WFFfQWVWNkNmSHNtemZoaUExUVJIeVl2TWRMRXhPcG5kaFQ3QThTRTBlZ2tId2I0aDZ4SDdMUEVrQkl0MW43bVJlTzY?oc=5",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "« Devenir la meilleure version de soi-même » : une étude des applications mobiles de bien-être au temps de l’hypermodernité - Université de Limoges",
+      "summary": "« Devenir la meilleure version de soi-même » : une étude des applications mobiles de bien-être au temps de l’hypermodernité &nbsp;&nbsp; Université de Limoges",
+      "source": "Université de Limoges",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWl9nMzFvSkhfZjN6cnJCNHRYUlJTc0o1TXl6SmRJOUQzdmlRTUxNSDFDSHpzRmdkcXItRzhYenJYb0xUVW02NEQ3dktTMlQ5VUQ5VllDclQ2bWhn?oc=5",
+      "published": "Fri, 18 Apr 2025 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Cette application mobile permet de soulager le mal des transports de façon surprenante - TF1 Info",
+      "summary": "Cette application mobile permet de soulager le mal des transports de façon surprenante &nbsp;&nbsp; TF1 Info",
+      "source": "TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaEFyNUVWMTVLQ0k3Z3BUbUNqdE00NnlpTWZ2X0pLNU91NDdKVUNBak13a25RQkF2ckFyQVE4MUNlRG9MWThfTl9CYUl2YUVMQU1FSFdUTTBQLVB1MFZ0ZXl0Ny1aeXpTYzlNR3ZVb1EwaWFqbHVWWi1WZ2NVRTBaNWY2ZVVYbGtJZ045MjM5eksyNmFvQy1JR1RnT2VvRVhtVjNDVkhub3NaWk9vYnJFZTRwME5FYkhrNTl2SWdfUXFjUEZmbjl0QlV1b28?oc=5",
+      "published": "Thu, 02 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "ActuaLitté sur smartphone Android ou iPhone : mieux qu'une application - ActuaLitté.com",
+      "summary": "ActuaLitté sur smartphone Android ou iPhone : mieux qu'une application &nbsp;&nbsp; ActuaLitté.com",
+      "source": "ActuaLitté.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1lPQXBVWGZZejR5ajRrUWhrdEF2NjVRT0xjdExNMTgzNHFnbXphNGp2NnE4MFNfdzVpTkl0eHIweFZwVzZjUUJhT0tiSTZMSzd3N3d2b01YR2UzYzJZY3kzR3gybDZJdDdjaFRhNm1QdEZLbl9saHp1TGpKaFp4SHpOX3FrbjRmMC1lLXpCMXpQX1VmNV9JSlBFTTNGTXNMaXRReHo0OERsalhtQnVwYnowZ0EyNW5aTWc?oc=5",
+      "published": "Fri, 05 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Rares sont ceux qui suppriment correctement les applications Android... pourtant, cela ne prend que quelques secondes - La Crème Du Gaming",
+      "summary": "Rares sont ceux qui suppriment correctement les applications Android... pourtant, cela ne prend que quelques secondes &nbsp;&nbsp; La Crème Du Gaming",
+      "source": "La Crème Du Gaming",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZWtVZ3hpcEItWUxBZ1VZZFdScm5VR2F2TzBmSTgxYk1BMXFFQ3lFbUNDaHVkV0I2WTZFdV9kczBYeWZfMHVURngwQzZtU1g1SG5jV2M2UlBDaGxvZ0dpR3BLUkxycTNpRnVWeGJ1dTRMenlRS1JOY3VjY3JfLUk4a3JyRVdDUk54YlpyR0drWHhhMDJUa05IZXRZRHhGb2lFQklweU5tRjlwZ2JSckIwQ1VfNUN4d2JfeDRYalp0U3VQcWQxNElIbXUyUjZjZ3VwY3Q2YUxqWlJlUGc1NGRhcHNCcnFtd2NaWHZITVM5RTJiQW1ocU9QT0hR?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+    }
+  ]
 }
