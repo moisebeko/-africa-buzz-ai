@@ -1,14 +1,6 @@
 {
-  "updated_at": "2026-11-06T18:59:12.517847+00:00",
+  "updated_at": "2026-11-07T01:05:57.882312+00:00",
   "articles": [
-    {
-      "category": "Cameroun",
-      "title": "Cameroun: le nigérian Dangote s'implante dans le secteur pétrolier - Orange Actualités",
-      "summary": "Cameroun: le nigérian Dangote s'implante dans le secteur pétrolier &nbsp;&nbsp; Orange Actualités",
-      "source": "Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTNzdzBMMmpteVhjT24yV1RmUTBnakt4OHItb09lWGY4aG5vTVdhcV84c2pnWHk4X1hQZmcybXllX0hKcFJIVmpOcFROOHBURzNlaTVqZHB2ci1fc1M0VXFlcW1ZeDFkSzdOQ05fSTRrbm9GR20ydklNWFotaFZIR2k1Q0lxZmlwakJWWHZ3eTBhYmswcWpxTnJtLVc4dkd0dXdETEU2NGJQMFI1aHNFMDh1UVdSek9f?oc=5",
-      "published": "Fri, 06 Nov 2026 17:05:50 GMT"
-    },
     {
       "category": "Cameroun",
       "title": "Paul Biya au pouvoir depuis 44 ans: la désignation d’un vice-président reste impérieuse au Cameroun - Yahoo Actualités",
@@ -16,14 +8,6 @@
       "source": "Yahoo Actualités",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03czlkUUhCY243bm5OZ25EQmlQUy1GR0J4bU51UDZocTh5dFVQZE5BNG1EcWtPVlhWLUJHOTJhZFhzc0hBTlh4ejJjX1ZBb1EyanFON090LWtLQVRxMkgyQUkxY0U1dlJDZy1TZnJ2a3p1emcxdnVr?oc=5",
       "published": "Fri, 06 Nov 2026 11:57:07 GMT"
-    },
-    {
-      "category": "Cameroun",
-      "title": "Cameroun : la succession à pas de loup, ou la patiente mise en scène de Franck Biya - Actu Cameroun",
-      "summary": "Cameroun : la succession à pas de loup, ou la patiente mise en scène de Franck Biya &nbsp;&nbsp; Actu Cameroun",
-      "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0E0ZHk0Vy1VYl9aU01vX3QydG1yT1JhbmtZZ0N5eWdOX2Fxb1ZGcTFrVjBsbEE4TU16QWRWU3IyUFd6cm12dXJKNkRkeWVGWFlUU09uTENobE1iaURBbk9xSWg4NU8xa2Y5MTVoZ3pGLXJKb1FSb2RNWG5VcVVja25wMlVuUE15QXpoUUlhdnYyRU5TUDZHRFRRNWw1Rlo1Sm5hRXg5SEVxSGZQZWVUdktQaDdxOF82?oc=5",
-      "published": "Fri, 06 Nov 2026 13:31:01 GMT"
     },
     {
       "category": "Cameroun",
@@ -35,6 +19,14 @@
     },
     {
       "category": "Cameroun",
+      "title": "Cameroun : la succession à pas de loup, ou la patiente mise en scène de Franck Biya - Actu Cameroun",
+      "summary": "Cameroun : la succession à pas de loup, ou la patiente mise en scène de Franck Biya &nbsp;&nbsp; Actu Cameroun",
+      "source": "Actu Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0E0ZHk0Vy1VYl9aU01vX3QydG1yT1JhbmtZZ0N5eWdOX2Fxb1ZGcTFrVjBsbEE4TU16QWRWU3IyUFd6cm12dXJKNkRkeWVGWFlUU09uTENobE1iaURBbk9xSWg4NU8xa2Y5MTVoZ3pGLXJKb1FSb2RNWG5VcVVja25wMlVuUE15QXpoUUlhdnYyRU5TUDZHRFRRNWw1Rlo1Sm5hRXg5SEVxSGZQZWVUdktQaDdxOF82?oc=5",
+      "published": "Fri, 06 Nov 2026 13:31:01 GMT"
+    },
+    {
+      "category": "Cameroun",
       "title": "Gabon : le crédit coûte plus de deux fois plus cher qu’au Cameroun (BEAC) - AGENCE ECOFIN",
       "summary": "Gabon : le crédit coûte plus de deux fois plus cher qu’au Cameroun (BEAC) &nbsp;&nbsp; AGENCE ECOFIN",
       "source": "AGENCE ECOFIN",
@@ -43,11 +35,27 @@
     },
     {
       "category": "Cameroun",
+      "title": "Nos vies sauvages, de Hemley Boum : une fresque ardente contre la dictature camerounaise - Le Figaro",
+      "summary": "Nos vies sauvages, de Hemley Boum : une fresque ardente contre la dictature camerounaise &nbsp;&nbsp; Le Figaro",
+      "source": "Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVC11MUVDa2M2a05JM1M1Zm5kSDAzOUM2ZkFSWUdtaFY2T1o4OWRwXzVQSHlGQUpBaDE1MVBuZEpKWndsa3JSdm5aY1daellPTEVieFdoZDFyUDZwbjMzZ3Z5NDd4UFJkM05WUUVCeWJ6WU11Ny1faU9DQzAxWkVJSUlXTGI0MUZ5RjU0TE5iVlBvRTJhWk16T3N0ZDVubFNjanVzRnZjaUpxNEQxR2lQSDBSdk5TVzdya3R2bVRTZDhJT28?oc=5",
+      "published": "Thu, 05 Nov 2026 14:30:00 GMT"
+    },
+    {
+      "category": "Cameroun",
       "title": "Présidentielle 2025 au Cameroun : Cabral Libii perd 64 427 voix, le PCRN accuse le mouvement « Tout sauf Cabral » - Cameroun Actuel",
       "summary": "Présidentielle 2025 au Cameroun : Cabral Libii perd 64 427 voix, le PCRN accuse le mouvement « Tout sauf Cabral » &nbsp;&nbsp; Cameroun Actuel",
       "source": "Cameroun Actuel",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYnUxM2FUaDNvSHdLLWtVYVBLQnJpbE5pbGZMLTRjOFhxa3g2TjM2azFFVVFNc2pvc2pkUl94empVVjJEOTd5VTVTcnUwSllrb3hxMEFsQ0xwNW1EVXJHeXNQdnJkemRDd29qYWloZ0huLVlod182MUw0ZWF4d2VudVk5Q1dncTNBSmREc1ZMY0xMUi1YU0w0RzB4aVM5NDhUNGV3NlpSR0owOHRGbE1ZNnVaTzVjTVpObC16M2pMcE1oMklpLTdkRlJUR05DdUE?oc=5",
-      "published": "Fri, 06 Nov 2026 11:10:15 GMT"
+      "published": "Fri, 06 Nov 2026 11:07:38 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Cameroun : les banques sollicitées pour accélérer les transferts à la CDEC - Capmad",
+      "summary": "Cameroun : les banques sollicitées pour accélérer les transferts à la CDEC &nbsp;&nbsp; Capmad",
+      "source": "Capmad",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3hhMDhGdXI1LWtmaVZoenBsUkROVWlGbGgzN21EVXFlZWU4MjlXbF9PejhiOE9qUko3YU9tQ2dxN2dGUlhiek5NQ3BoRDVZX3hFelExSjhPY0JISm9vSjhKTEU5WTQxRG9vMzVWejgxeW0xdkJTeUw1T2tMNWw3TC1rd0pTMkU3OS1JQUFJbUh0ekRQdDRYT2ZqdFQ4cUZ2RjA5eTZ3?oc=5",
+      "published": "Wed, 04 Nov 2026 11:42:00 GMT"
     },
     {
       "category": "Cameroun",
@@ -59,35 +67,19 @@
     },
     {
       "category": "Cameroun",
-      "title": "Junior Rengou : « pourquoi Harold Moukoudi ne figure-t-il pas dans la liste de David Pagou ? » - Actu Cameroun",
-      "summary": "Junior Rengou : « pourquoi Harold Moukoudi ne figure-t-il pas dans la liste de David Pagou ? » &nbsp;&nbsp; Actu Cameroun",
+      "title": "Metafrique Steel : l’État camerounais savait-il ? - Actu Cameroun",
+      "summary": "Metafrique Steel : l’État camerounais savait-il ? &nbsp;&nbsp; Actu Cameroun",
       "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2luekF2cnNsUHJUV2xiTTU3RG8wbHppXzNseFBTblotb2tfUjAwdE5PMG9JNnd4T21neXJuZDVpeW9xcFpRZEJUSVg2a2JoNkJ1dm1EWi1wRHEyTmpaWndOVTkwX2stMzV3N3FuWkpaQTRJOVFsSTViTWdGX2s5TVRGLXNoMW4xcEp1aF9VelZnVDQyTVBZd2N2dGNPbURGQmM4SFU5cEpMY1o1cUZySk9IMlJpblp3aVZUakJ1RUg?oc=5",
-      "published": "Fri, 06 Nov 2026 13:17:17 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXdYT2lGWVpVSGRLZWg4QkltYkhrdW9oWnQ5WXRuc3BnTU5WcEYycGxsdEhIVlRBb1h1M0M3ZVBVcFBEM3NKdkFRSHpZa3pCWXVTN1lKaWV6QS13WEF2enc0U3RJT2N0TEs2Rk92YjZwLWVNa1l4RDJVNkZoQVJmdl9MWHRCZzZf?oc=5",
+      "published": "Fri, 06 Nov 2026 15:42:20 GMT"
     },
     {
       "category": "Cameroun",
-      "title": "Carlos Baleba sera absent pour plusieurs semaines, annonce Michael Carrick - Actu Cameroun",
-      "summary": "Carlos Baleba sera absent pour plusieurs semaines, annonce Michael Carrick &nbsp;&nbsp; Actu Cameroun",
-      "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWd1SWZKUk8zVnZXVjNGUmc0Ym41Y0EtNFU5dkkyUXNYNjd1Y2E0U3VjYlNxczlaRDNqaWIwLXR0akwyLURrQzVZU0FxU0JIZUpkWlJFREY4SFlrckl4RGY0VlF2Sk5xenhVNUtueEJQSmo3c0NKMnlOS2Y2U2ZfcG5XT21yLWFXdHFFV1NvMURHNFROQldLUzRtcGl2UGMwUk5PcjBTcFhlMEQ3Vkhj?oc=5",
-      "published": "Fri, 06 Nov 2026 16:57:45 GMT"
-    },
-    {
-      "category": "Cameroun",
-      "title": "Paul Biya : 300 ministres en 44 ans de règne - Actu Cameroun",
-      "summary": "Paul Biya : 300 ministres en 44 ans de règne &nbsp;&nbsp; Actu Cameroun",
-      "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWg3UzJ0TFZZbUlFVTZqX0J0bXgtQlo0c2RqcTZFSkhIRmFFRE41bjBlUEU4N3NJVUkzSFZSTlF4cTd1RXYxOEZyRndyVVBGcnR1akFKaW92ZVZzbWUxOTNHWlA1ZWRndk5qQ29xbUN2TmdjdG9ZbC15RHVmdEl5QnlUMGMzdw?oc=5",
-      "published": "Fri, 06 Nov 2026 17:14:50 GMT"
-    },
-    {
-      "category": "Afrique",
-      "title": "Elle Afrique Francophone : Angélique Kidjo en couverture et invitée exceptionnelle d’Africa Radio - africaradio.com",
-      "summary": "Elle Afrique Francophone : Angélique Kidjo en couverture et invitée exceptionnelle d’Africa Radio &nbsp;&nbsp; africaradio.com",
-      "source": "africaradio.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUpUbHlTSkctUmpacU5KdTdRdlFTSW1scGtQSHNiM1NXZWlzMWF2Ukd6cHh0VXo1OHZIU3A0c01OZTRZSmdmeGk3bWo0UGVHUU1leVpjNUIwX1lYaHRBQ3dycl81SDhDUUdWWTBrQjJ2eEFyOFR2VTJFbWluRFZWUzB3bHl0bmp1d0RhcXNWQnlfQUh4Xzgtck92dVBQSzdLdFVOemRkNDNxWERMdUxodVRzZG1MaHVtWnJRWkJiN29mTkFPOWlaSGNpN2RydDVrZ053T1NwRQ?oc=5",
-      "published": "Wed, 04 Nov 2026 08:00:00 GMT"
+      "title": "Cameroun : Face aux secousses sismiques, le spectre d’une éruption réveille le Mont Cameroun - Journal Chrétien",
+      "summary": "Cameroun : Face aux secousses sismiques, le spectre d’une éruption réveille le Mont Cameroun &nbsp;&nbsp; Journal Chrétien",
+      "source": "Journal Chrétien",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWE5rTng3aEQwRXlmY2lwUEZ3RHFkLXR1ZUY0X1M5Tnp6X2RUTkc5R1pmVXZtS3N1VkdSYkpRd2NQdjJrTzVLUzB4UzFwX2k3ZE1BMEZEajhmdThfVnJUY3pVTXdEMUNQNzU2NjYxT3JlNDhkVE41TDlQeFo2Wjc1WWEtVmd2ZmFYU01yR3FrT0MzeUV1QUEtekphSDU3TVVKelZRZGlONm04aTF5dElGQkI3YkN1Y1czWllxSnlrRmwwRzk4Y1J6OW1mWlJKWURQd0Jwak13?oc=5",
+      "published": "Wed, 04 Nov 2026 10:32:37 GMT"
     },
     {
       "category": "Afrique",
@@ -99,11 +91,19 @@
     },
     {
       "category": "Afrique",
-      "title": "Afrique: Revue de presse de l'Afrique Francophone du 6 novembre 2026 - allAfrica.fr",
-      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 6 novembre 2026 &nbsp;&nbsp; allAfrica.fr",
+      "title": "Afrique: Revue de presse de l'Afrique Francophone du 3 novembre 2026 - allAfrica.fr",
+      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 3 novembre 2026 &nbsp;&nbsp; allAfrica.fr",
       "source": "allAfrica.fr",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xTzRoWUVHZXFDbHpETktzU1JOeC1xTmlrc3BfczBFSUN4NVVONHBLQXF3ZlBpdjFYNTJEQkluNlYtS242VjRjX1VDMHhNRHdEZ3dub09oOGkwTHVpN19j?oc=5",
-      "published": "Fri, 06 Nov 2026 10:16:57 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtRUFBNnFPaVJxbjJINGkyUEx3cU5WM2pCODhaWmNzUGpDeGQ3YmhHVDhTckJaQlAxaTdNWU5oaWRBUXdPenZaeV91MXd3cGs1eDJKVGx1a1lXQUR0YVE4?oc=5",
+      "published": "Tue, 03 Nov 2026 09:08:30 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Emmanuel Macron : Que révèle le sommet Africa Forward sur les relations entre Paris et l'Afrique francophone ? - BBC",
+      "summary": "Emmanuel Macron : Que révèle le sommet Africa Forward sur les relations entre Paris et l'Afrique francophone ? &nbsp;&nbsp; BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NLXN5ekJtTE5tNGtFRGtaQjRGQ1RxZWhoR1ZELWpZUFNfLUNhQ0VLMy1JeHRCOVdDSkhfbXZNQ3ZPNk5DMFF1aGRYWXRqVWw3ME1lYWN3RkxrTUxvdnfSAWNBVV95cUxNWXIzTDktd1o1RVhPdGV1Y3UtUFZsTWZaZTMwOUJDVktNeWI2THhSbF9Oa1RoYmhEdzJkN2liZmEzeXgyNzVoUDd3R29IVWFRS0lETFg0czktZEJlYXpQcWJieGs?oc=5",
+      "published": "Tue, 12 May 2026 07:00:00 GMT"
     },
     {
       "category": "Afrique",
@@ -115,11 +115,19 @@
     },
     {
       "category": "Afrique",
-      "title": "Afrique: Revue de presse de l'Afrique Francophone du 3 novembre 2026 - allAfrica.fr",
-      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 3 novembre 2026 &nbsp;&nbsp; allAfrica.fr",
-      "source": "allAfrica.fr",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtRUFBNnFPaVJxbjJINGkyUEx3cU5WM2pCODhaWmNzUGpDeGQ3YmhHVDhTckJaQlAxaTdNWU5oaWRBUXdPenZaeV91MXd3cGs1eDJKVGx1a1lXQUR0YVE4?oc=5",
-      "published": "Tue, 03 Nov 2026 09:08:30 GMT"
+      "title": "Afrique économie - L’Afrique francophone veut accélérer le financement des start-up - RFI",
+      "summary": "Afrique économie - L’Afrique francophone veut accélérer le financement des start-up &nbsp;&nbsp; RFI",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb201SVM4QU4wYjFhZVgxT1RRTGVGT0owcHpJRS1tdVZ0eXBPdEZoa1hZSlhtUWF4SFpzbDVIOTZ2Wi1QWXJ1SC1tbmljTk5mb3UtcWVWT3dybE95dzZSV09iZDZ0RG9zMTQ0bmp0b0VCNXJ0dG1IT2ZHcENabExYWUota1YyR25QVVFKZVZHRkZVU25ycTVVYThRd2pfXzFydVRIN1JqaXdDRllnWTRmUmduTWhDS1ZlbHM2aTJfLUMtTFpPUjBySnlMVVhoNFB4ZUE?oc=5",
+      "published": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Elle Afrique Francophone : Angélique Kidjo en couverture et invitée exceptionnelle d’Africa Radio - africaradio.com",
+      "summary": "Elle Afrique Francophone : Angélique Kidjo en couverture et invitée exceptionnelle d’Africa Radio &nbsp;&nbsp; africaradio.com",
+      "source": "africaradio.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUpUbHlTSkctUmpacU5KdTdRdlFTSW1scGtQSHNiM1NXZWlzMWF2Ukd6cHh0VXo1OHZIU3A0c01OZTRZSmdmeGk3bWo0UGVHUU1leVpjNUIwX1lYaHRBQ3dycl81SDhDUUdWWTBrQjJ2eEFyOFR2VTJFbWluRFZWUzB3bHl0bmp1d0RhcXNWQnlfQUh4Xzgtck92dVBQSzdLdFVOemRkNDNxWERMdUxodVRzZG1MaHVtWnJRWkJiN29mTkFPOWlaSGNpN2RydDVrZ053T1NwRQ?oc=5",
+      "published": "Sat, 11 Apr 2026 07:00:00 GMT"
     },
     {
       "category": "Afrique",
@@ -131,27 +139,11 @@
     },
     {
       "category": "Afrique",
-      "title": "Afrique économie - L’Afrique francophone veut accélérer le financement des start-up - RFI",
-      "summary": "Afrique économie - L’Afrique francophone veut accélérer le financement des start-up &nbsp;&nbsp; RFI",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb201SVM4QU4wYjFhZVgxT1RRTGVGT0owcHpJRS1tdVZ0eXBPdEZoa1hZSlhtUWF4SFpzbDVIOTZ2Wi1QWXJ1SC1tbmljTk5mb3UtcWVWT3dybE95dzZSV09iZDZ0RG9zMTQ0bmp0b0VCNXJ0dG1IT2ZHcENabExYWUota1YyR25QVVFKZVZHRkZVU25ycTVVYThRd2pfXzFydVRIN1JqaXdDRllnWTRmUmduTWhDS1ZlbHM2aTJfLUMtTFpPUjBySnlMVVhoNFB4ZUE?oc=5",
-      "published": "Wed, 27 May 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Afrique",
-      "title": "Ces universités d’Afrique subsaharienne francophone qui brillent malgré des ressources limitées - BBC",
-      "summary": "Ces universités d’Afrique subsaharienne francophone qui brillent malgré des ressources limitées &nbsp;&nbsp; BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuQnJsekZ5RGg5eFVXQXFkYlQzamc3cVEtMEtYUHhCcmJhMTBvTlh2YkxJWDFURHRSdGplYmVxREdZNXBFZzZVOUllRFJybTVpVGRNTTJCLThWc05XYXfSAWNBVV95cUxNUGRGN1dHVmlzMXd0RmtacExBaEozOWNrUXF6UGhqVXdiQ3dzUjhPblRPTzFXT3hpdENRXzg2TE1ReVdOU1JiTzVlZ3BLMUlXTHNIUUt4Uno1cHh1SU12X1hydTg?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Afrique",
-      "title": "Analyse de l’actualité africaine francophone - 237online.com",
-      "summary": "Analyse de l’actualité africaine francophone &nbsp;&nbsp; 237online.com",
-      "source": "237online.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dDNfR2g2VjJyODZXTVM4WlNPclZkcnN3LXpBdC1IdWFQb2lxR3JTUm9iUDY0RHVQbUtBZDR2Sl9nSm9DSUFhVE9oaTZTd3pLdVZXOXFhaC1lSjRnd2JPYUhLNkNZTFY5d0o0RW1ROEFlWmpJ?oc=5",
-      "published": "Mon, 07 Sep 2026 07:00:00 GMT"
+      "title": "Etude : l'état du fact-checking en Afrique francophone - DW.com",
+      "summary": "Etude : l'état du fact-checking en Afrique francophone &nbsp;&nbsp; DW.com",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94SVRFWDZFeml0MzVEcllxcVU2MnVwajJEei00LVlPWi13WGZNVldldUMxQl92Zm96WHZFRk9DVmlRTlprWG9RMWVsZEJIWmp1cnJvVXVkbHFMZFV1aDdGeFZLdnNmZm5JUmdVekVFcmJ1TmNR0gF0QVVfeXFMT0NzTVNfU3Y5WTJoUWZfMWtUR1l4QjgwRmJOUk1uS2o5akhpTUV3MWhKNmFNNXhYWkUySXNFcVBkYklnRzFrY3lCNDM3WDdSNXh5MFZPZ1lsTmstMUc3YzFEdDFtRGtxQmFWb2E2QjNsdTNJcVk?oc=5",
+      "published": "Sun, 05 Apr 2026 07:00:00 GMT"
     },
     {
       "category": "Afrique",
@@ -160,6 +152,14 @@
       "source": "allAfrica.fr",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0Rkl3TzU0RnNIT0FhZDVlZzRQRXFLRHY5X1JhUy1qUjZqSDJmdFVhNE9ZYmZtLXFCSjhRT2pRNnQzX3V5c1dKeXpRSkdfaHktbDluRlVXZUlqRjZNMnFZ?oc=5",
       "published": "Thu, 05 Nov 2026 09:18:49 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Analyse de l’actualité africaine francophone - 237online.com",
+      "summary": "Analyse de l’actualité africaine francophone &nbsp;&nbsp; 237online.com",
+      "source": "237online.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dDNfR2g2VjJyODZXTVM4WlNPclZkcnN3LXpBdC1IdWFQb2lxR3JTUm9iUDY0RHVQbUtBZDR2Sl9nSm9DSUFhVE9oaTZTd3pLdVZXOXFhaC1lSjRnd2JPYUhLNkNZTFY5d0o0RW1ROEFlWmpJ?oc=5",
+      "published": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
       "category": "Sport",
@@ -187,11 +187,11 @@
     },
     {
       "category": "Sport",
-      "title": "CAF Awards 2026 : Les Lionnes Indomptables à la conquête du continent, le Cameroun présent dans 4 catégories - Actu Cameroun",
-      "summary": "CAF Awards 2026 : Les Lionnes Indomptables à la conquête du continent, le Cameroun présent dans 4 catégories &nbsp;&nbsp; Actu Cameroun",
+      "title": "David Pagou absent du top 10 des meilleurs sélectionneurs africains - Actu Cameroun",
+      "summary": "David Pagou absent du top 10 des meilleurs sélectionneurs africains &nbsp;&nbsp; Actu Cameroun",
       "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMDF2US0wVkdEM2ZwbExJTENGSFhlMGtrYkQwRFVmMzdZRFA4UTVFSGhzWG83LUJkSG56a3dabkNkSThVa2dwNURLaS1iVkd5ZEpIQjBmV1BJbXgxcTk1c0Znd2dXSmZfUEhjemd3NGo0TGhfU0VmUWlJUGFIemNQbHZ3cGVncHBraGg1NE16UUxJTTVIRHNENHFpQmZ3Sk9hbEtqWHZNX0F3RlgtSW1HMklmWkUwNl8xUHVJYjljVGx5aVFOYjZPaGcwRC1tUC01UXIwMkJFbjdOZw?oc=5",
-      "published": "Wed, 04 Nov 2026 08:40:42 GMT"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUkMyTGxSOHhxU01reEZXRS1seEpUUFZabTUyVHdGdFBidThnYlJzRE8tTUFoZ3JkanNyRUN3ck8yVjhaTGhJWU1DcHM5WDdrWl9OSjJxWmlhT3pQNzdKX3ZSZzJmVHdRS0NXS2pxeTJLVHRPVDg0ZXNsNWwzZElBOW54dGZIb3FqRXg1THNOZl9yM1BoRGR2T0NOX3BEdUFBVE9tV09iTQ?oc=5",
+      "published": "Thu, 05 Nov 2026 11:24:14 GMT"
     },
     {
       "category": "Sport",
@@ -211,19 +211,19 @@
     },
     {
       "category": "Sport",
-      "title": "Football: le Cameroun remporte le choc amical face à la Côte d'Ivoire - RFI",
-      "summary": "Football: le Cameroun remporte le choc amical face à la Côte d'Ivoire &nbsp;&nbsp; RFI",
+      "title": "Jean Manga Onguéné, la «tête d’or» du football camerounais s’est éteinte - RFI",
+      "summary": "Jean Manga Onguéné, la «tête d’or» du football camerounais s’est éteinte &nbsp;&nbsp; RFI",
       "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXFqWHZXTnBFREQxR2hkcGduZHdTY0dBREdvS3pTNUd3V3l1Rm9EZk93UlZ1Z0I1ejJvSFh0UEJ2UE55VWhhajRGRkFFd2ZaYmRvQ192dFhJQXdVRDV3c1pkMnJuUmZ1YUl4ZXdmQ050ZjBlVjU5czVhLUd4eTg3Nm1ZQkZScDByNEpmakRUSTE0WEYxZjBlUTJvUlRXTW16OEJTZ2NVZ1NzWEV2SkllOWZDOGJnVjlzdEpQdmppYw?oc=5",
-      "published": "Sat, 03 Oct 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0tsWTA1T2h2OF83U1BlN0drUTNnZm9QWUpKSmk0N3Y3NUNTMTVpeXRycFBrM0ViVUZUZ3AxdGwtWm0zOEVXbXluTmItZVhDOGpybjR3Yk9STDkyR0NBY2w3eFpPcVpoeGZVQlBHZ3ZaenBBWVNESXF2NmNzTUhNU2VydC1TWXB1NFBKUHF5S0lPQVlaSG1fVnkzeURLV01ycC1DQ2RnQ2dfRFpxT2Vxd0k0YXdjMzh6UnU3TGhwSDJ2RllvdmJWMU1Rajk4Zw?oc=5",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
       "category": "Sport",
-      "title": "CAF AWARDS 2026 : Les Lionnes Indomptables à la conquête d’une consécration continentale - Actu Cameroun",
-      "summary": "CAF AWARDS 2026 : Les Lionnes Indomptables à la conquête d’une consécration continentale &nbsp;&nbsp; Actu Cameroun",
+      "title": "CAF Awards 2026 : Les Lionnes Indomptables à la conquête du continent, le Cameroun présent dans 4 catégories - Actu Cameroun",
+      "summary": "CAF Awards 2026 : Les Lionnes Indomptables à la conquête du continent, le Cameroun présent dans 4 catégories &nbsp;&nbsp; Actu Cameroun",
       "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaHNUQlpMb2Y5WEVfbF9VazFJYk90ZmctcXZuX0tkWUJTWUVQYW1BWnkydnZtUWU0bWpzOEo3RnY0bEJfOHVxYTQ0RUp3QWdVOFRfYVFEb3k3S3NNZC1WZXVPbDBxMlJuVUJ5Y0lwQ2JBSGdDS0NXQWkwTWRiS1JCbkVGd25ZU2RHU3NqSTRITnA0aFZMcW51azVCSk5EUmxEVEtuSHFldVQ2N0MzbzBuaFdHNUMxdDBHbDVPdDF6cw?oc=5",
-      "published": "Tue, 03 Nov 2026 10:13:43 GMT"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMDF2US0wVkdEM2ZwbExJTENGSFhlMGtrYkQwRFVmMzdZRFA4UTVFSGhzWG83LUJkSG56a3dabkNkSThVa2dwNURLaS1iVkd5ZEpIQjBmV1BJbXgxcTk1c0Znd2dXSmZfUEhjemd3NGo0TGhfU0VmUWlJUGFIemNQbHZ3cGVncHBraGg1NE16UUxJTTVIRHNENHFpQmZ3Sk9hbEtqWHZNX0F3RlgtSW1HMklmWkUwNl8xUHVJYjljVGx5aVFOYjZPaGcwRC1tUC01UXIwMkJFbjdOZw?oc=5",
+      "published": "Wed, 04 Nov 2026 08:40:42 GMT"
     },
     {
       "category": "Sport",
@@ -235,27 +235,11 @@
     },
     {
       "category": "Sport",
-      "title": "Jean Manga Onguéné, la «tête d’or» du football camerounais s’est éteinte - RFI",
-      "summary": "Jean Manga Onguéné, la «tête d’or» du football camerounais s’est éteinte &nbsp;&nbsp; RFI",
+      "title": "Football: le Cameroun remporte le choc amical face à la Côte d'Ivoire - RFI",
+      "summary": "Football: le Cameroun remporte le choc amical face à la Côte d'Ivoire &nbsp;&nbsp; RFI",
       "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa0tsWTA1T2h2OF83U1BlN0drUTNnZm9QWUpKSmk0N3Y3NUNTMTVpeXRycFBrM0ViVUZUZ3AxdGwtWm0zOEVXbXluTmItZVhDOGpybjR3Yk9STDkyR0NBY2w3eFpPcVpoeGZVQlBHZ3ZaenBBWVNESXF2NmNzTUhNU2VydC1TWXB1NFBKUHF5S0lPQVlaSG1fVnkzeURLV01ycC1DQ2RnQ2dfRFpxT2Vxd0k0YXdjMzh6UnU3TGhwSDJ2RllvdmJWMU1Rajk4Zw?oc=5",
-      "published": "Wed, 07 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Gaming",
-      "title": "Surprise ! Une nouvelle mise à jour est disponible pour Hogwarts Legacy - Journal du Geek",
-      "summary": "Surprise ! Une nouvelle mise à jour est disponible pour Hogwarts Legacy &nbsp;&nbsp; Journal du Geek",
-      "source": "Journal du Geek",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFZwTzdQSGJRTDAta3FhVTdpaW1kSjRTMXdlbXFTc2tZa2xDVTU1Y1RVS2k5Y2g3YTVEcm1RV3k5NHZvRThHeE1ma0JVbnFIZ0IwenlLczRkREVaM2diYWtkTXRkR3Q0SFRKVE15VVpoZlU5amRncWZxZVVFOFhYR3RJdmZVWEF3RGtKU29WOTd6VlF4S282Q2ljWXBWQlNWOW5FNnZwWjRzamF6ak5BcA?oc=5",
-      "published": "Thu, 05 Nov 2026 15:32:48 GMT"
-    },
-    {
-      "category": "Gaming",
-      "title": "« GTA 6 » : avant la sortie du jeu culte, Microsoft fait gagner une édition collector de la Xbox en forme d’alligator - Ouest-France",
-      "summary": "« GTA 6 » : avant la sortie du jeu culte, Microsoft fait gagner une édition collector de la Xbox en forme d’alligator &nbsp;&nbsp; Ouest-France",
-      "source": "Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMVY3WDFvM0todVJPZDFLd2JyOWwxc1k1X1JXazZHQU9YdVZjQmFTbWJKdjZUVXlCR21DUm5iRlhCUEVBMHFvR0wxM3lMLUtSSElhNm8zUzFOS3BIdXgwZGZvSGVkXzBkSnpUbFpkRjdIcDVFLUhIY2tKcTZZb1BVUHlscUpWa3hYRXlRSDJYSG1WNHJRYzgwVHdIVDZMdDJDTDB4NmdRRlBqOGNQRzRLdkFMTzBOQTUwRlozd1BVNndSbEdVVzk0Rjl6emR2T0JDMkJmRTJKbUUzT1NsMGJycGlnVE96dzRNYk04XzdIWE5jU05VMGVDMVBhU3FxR1B5cjdKVHF4TGpfNVJKWjZoYTRkcWFzQ295LTBMTw?oc=5",
-      "published": "Fri, 06 Nov 2026 15:01:19 GMT"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXFqWHZXTnBFREQxR2hkcGduZHdTY0dBREdvS3pTNUd3V3l1Rm9EZk93UlZ1Z0I1ejJvSFh0UEJ2UE55VWhhajRGRkFFd2ZaYmRvQ192dFhJQXdVRDV3c1pkMnJuUmZ1YUl4ZXdmQ050ZjBlVjU5czVhLUd4eTg3Nm1ZQkZScDByNEpmakRUSTE0WEYxZjBlUTJvUlRXTW16OEJTZ2NVZ1NzWEV2SkllOWZDOGJnVjlzdEpQdmppYw?oc=5",
+      "published": "Sat, 03 Oct 2026 07:00:00 GMT"
     },
     {
       "category": "Gaming",
@@ -267,43 +251,11 @@
     },
     {
       "category": "Gaming",
-      "title": "\"Zelda : Ocarina of Time\" : pourquoi le remake pour la Switch 2 du \"meilleur jeu vidéo de l'Histoire\" a tout pour faire pleurer les Millennials (et pas qu'eux) - RTL",
-      "summary": "\"Zelda : Ocarina of Time\" : pourquoi le remake pour la Switch 2 du \"meilleur jeu vidéo de l'Histoire\" a tout pour faire pleurer les Millennials (et pas qu'eux) &nbsp;&nbsp; RTL",
-      "source": "RTL",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQS1Z3VWlReV9pTXNJZ25sNHlFN1g3RGZEaktLdkJuQVhaM0l3V0pzNDFob2J4RXd4cFhhODkwVXFkaTA4b2J2V09OTThJeVB3VHJvakFObXBlV2xKRk5uOHFaS2dfUXdUMmpHWnNzZzZuVDlXMDFyZ09CNHRvZGVEVXpJWDFHM21JQW1LYjVwS3JSYmlWSU84RWEzOW51QkIwaG11ZzJoZ21hcWhVQlE1R2RzZlo1bm5mX2pnLVgzY2lrWEZpZ0VGX3pLLVJpVTR5ZThBcjc3Q2Y0SjdqeE9kVTBMVk9qWVFQOHRyTFRwZ1JuUE54OGhid1B2dk9iU2VkbzVlUWRpclc5Rk92eXdSbGh1VFdodDYxYTBPTl9iS1pubW9V?oc=5",
-      "published": "Thu, 05 Nov 2026 05:00:00 GMT"
-    },
-    {
-      "category": "Gaming",
-      "title": "Adieu l’exclusivité Switch 2 : le nouveau Zelda tourne sur PC avant même sa sortie, et maintenant sur PS5 - Les Numériques",
-      "summary": "Adieu l’exclusivité Switch 2 : le nouveau Zelda tourne sur PC avant même sa sortie, et maintenant sur PS5 &nbsp;&nbsp; Les Numériques",
-      "source": "Les Numériques",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVVDLWc4SXJBTnhaRzUzVHhiUmZxTDFmNjRzQlBlcXBRbkhjNEJ5N1hnUTI0bDVWSHM5ZDdYckJaZXNDakhzdy1nS0pXU05iQzFPSXNZWDlRVVpFMnMzZ2EzdFVqc1lMTy1LcGlacFhvOXcxR2IwM1h5bUl4ME9yTTFVOGZid0NpRjhpR1Izd1RiRGExV3lTYnRhR3phQnFueTZiQ2EwSjcyaW05anY3NzFWNFVtUnRoMW9zWFhxOUtvekRsai1JZmx3amp1R1U?oc=5",
-      "published": "Fri, 06 Nov 2026 06:00:00 GMT"
-    },
-    {
-      "category": "Gaming",
-      "title": "Trébrivan. Une exposition sur les jeux vidéo installée à la bibliothèque - maville.com",
-      "summary": "Trébrivan. Une exposition sur les jeux vidéo installée à la bibliothèque &nbsp;&nbsp; maville.com",
-      "source": "maville.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMmpTQlhSbWF5Mi1Rc3F6dFkwNl9BckNKOHJZNnZRVHo2ckZmVkFaZ3p4Wk43cEhqRU5KM1dHLUJJSWwtazA4ZFBaaDN3eS1TVWZHTy1PQW5HMmZ6V2lOeEZ4a1p5UEduVEx1cW03ZC1IS0VxS1NaQ3V2enR0enlOZUJYLXc2UlZsX3JSSkdCWDNEcXE2R0djeTFlUkxoYk1STEhEaXVrYWJOQTd5bUc3QUdZX1p6aXhJTXlBOVp0Z1BudjdyMzR0UmdwTXlldTAtVk13bkhR?oc=5",
-      "published": "Fri, 06 Nov 2026 04:14:00 GMT"
-    },
-    {
-      "category": "Gaming",
-      "title": "007 First Light devient gratuit sur PC et Xbox : voici comment jouer à James Bond sans payer - La Crème Du Gaming",
-      "summary": "007 First Light devient gratuit sur PC et Xbox : voici comment jouer à James Bond sans payer &nbsp;&nbsp; La Crème Du Gaming",
-      "source": "La Crème Du Gaming",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVHBMMmUwM045eWV2ZUI0Y1RvdXFpM3V2UzVOMVJ0bUplME53ZFktU0JWa0dOeVJqRXNZR1B4MVBIckNyYV9OcEVxa2VUSGdFVndQcjM0SHNqRGJJU2FDYTA5Q2Y1bm5RdFlTWXFhOHRqRkotVU5UWGc3Mk9La3NVa3Q5WHlUZk1jUUpobFZBVVROcGFNanV5UDRRTnlhNklONkktc1NFQUNtcG05TWFtQXFPR1pxb2RCWlY2eVgwR1ZseFJ4YWpsRXoyTHVRUUhmVlJlYXNGSW5ydkdB?oc=5",
-      "published": "Fri, 06 Nov 2026 14:30:27 GMT"
-    },
-    {
-      "category": "Gaming",
-      "title": "\"Marseille 3000\" : c’est quoi ce jeu où il faut sauver Marseille de l’invasion des touristes ? - mesinfos",
-      "summary": "\"Marseille 3000\" : c’est quoi ce jeu où il faut sauver Marseille de l’invasion des touristes ? &nbsp;&nbsp; mesinfos",
-      "source": "mesinfos",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHNJRlNtb1FzSXJUZmYtZHVUWWRhVVB2Uk5WNndERUcyNE9qZjhfbTFkTDF5NFBPYXZuUTctMkhNNERMWV83bmp1RllsMlpMNE95TDJYOG5VUDdRelQycWVWd3d3cHpTa0c3LVBMd3ZCamdWempFWHFpOUk4S3VpdXV6aURldThnNUFfOC1adVdWa2FzaEtmeUFzZ0xlaVF6WU1EZGN3ZDhHeDlUakhDMEwtRzZpSG55S0w3bTg5dWFhdkNNU21YQ09UVnV5QkliOEE?oc=5",
-      "published": "Tue, 03 Nov 2026 15:11:00 GMT"
+      "title": "« GTA 6 » : avant la sortie du jeu culte, Microsoft fait gagner une édition collector de la Xbox en forme d’alligator - Ouest-France",
+      "summary": "« GTA 6 » : avant la sortie du jeu culte, Microsoft fait gagner une édition collector de la Xbox en forme d’alligator &nbsp;&nbsp; Ouest-France",
+      "source": "Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMVY3WDFvM0todVJPZDFLd2JyOWwxc1k1X1JXazZHQU9YdVZjQmFTbWJKdjZUVXlCR21DUm5iRlhCUEVBMHFvR0wxM3lMLUtSSElhNm8zUzFOS3BIdXgwZGZvSGVkXzBkSnpUbFpkRjdIcDVFLUhIY2tKcTZZb1BVUHlscUpWa3hYRXlRSDJYSG1WNHJRYzgwVHdIVDZMdDJDTDB4NmdRRlBqOGNQRzRLdkFMTzBOQTUwRlozd1BVNndSbEdVVzk0Rjl6emR2T0JDMkJmRTJKbUUzT1NsMGJycGlnVE96dzRNYk04XzdIWE5jU05VMGVDMVBhU3FxR1B5cjdKVHF4TGpfNVJKWjZoYTRkcWFzQ295LTBMTw?oc=5",
+      "published": "Fri, 06 Nov 2026 15:01:19 GMT"
     },
     {
       "category": "Gaming",
@@ -315,6 +267,38 @@
     },
     {
       "category": "Gaming",
+      "title": "\"Je me suis allongé et j'ai joué à Balatro\" C'est ce qu'a fait ce développeur après avoir travaillé 17 ans sur son projet - JeuxVideo.com",
+      "summary": "\"Je me suis allongé et j'ai joué à Balatro\" C'est ce qu'a fait ce développeur après avoir travaillé 17 ans sur son projet &nbsp;&nbsp; JeuxVideo.com",
+      "source": "JeuxVideo.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVFRFVTF3bG1fRWs3NzhfWmZvWHc2Y2EzX01IZ1piX21OTnBKTk1UMWw4TF9haHRBcHJld1UtMkFYT01SVXg3RlNrZjdRVkxDUmR1c0JJb2I2S3V6U1JwZUpKcWVyTWlkaHBsWUk0YjNNSU1haVYwdXI4S05WZTJkQ2dVX0VfTllrOVM2RC1VVGhQZWJWckRqMHFyNUpDTEF0bi00dGVGRmpFQkxmRWVxcUdtZ3pqaDZaQlV2NDRHNDF4OU1GLWlpa01kbFJMbW5MdFlnVHUzcjJCR01RUFBpTmlFT2d1V0s2dGlHSlpURXhRVDlt?oc=5",
+      "published": "Fri, 06 Nov 2026 21:20:16 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "\"Marseille 3000\" : c’est quoi ce jeu où il faut sauver Marseille de l’invasion des touristes ? - mesinfos",
+      "summary": "\"Marseille 3000\" : c’est quoi ce jeu où il faut sauver Marseille de l’invasion des touristes ? &nbsp;&nbsp; mesinfos",
+      "source": "mesinfos",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHNJRlNtb1FzSXJUZmYtZHVUWWRhVVB2Uk5WNndERUcyNE9qZjhfbTFkTDF5NFBPYXZuUTctMkhNNERMWV83bmp1RllsMlpMNE95TDJYOG5VUDdRelQycWVWd3d3cHpTa0c3LVBMd3ZCamdWempFWHFpOUk4S3VpdXV6aURldThnNUFfOC1adVdWa2FzaEtmeUFzZ0xlaVF6WU1EZGN3ZDhHeDlUakhDMEwtRzZpSG55S0w3bTg5dWFhdkNNU21YQ09UVnV5QkliOEE?oc=5",
+      "published": "Tue, 03 Nov 2026 15:11:00 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Adieu l’exclusivité Switch 2 : le nouveau Zelda tourne sur PC avant même sa sortie, et maintenant sur PS5 - Les Numériques",
+      "summary": "Adieu l’exclusivité Switch 2 : le nouveau Zelda tourne sur PC avant même sa sortie, et maintenant sur PS5 &nbsp;&nbsp; Les Numériques",
+      "source": "Les Numériques",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVVDLWc4SXJBTnhaRzUzVHhiUmZxTDFmNjRzQlBlcXBRbkhjNEJ5N1hnUTI0bDVWSHM5ZDdYckJaZXNDakhzdy1nS0pXU05iQzFPSXNZWDlRVVpFMnMzZ2EzdFVqc1lMTy1LcGlacFhvOXcxR2IwM1h5bUl4ME9yTTFVOGZid0NpRjhpR1Izd1RiRGExV3lTYnRhR3phQnFueTZiQ2EwSjcyaW05anY3NzFWNFVtUnRoMW9zWFhxOUtvekRsai1JZmx3amp1R1U?oc=5",
+      "published": "Fri, 06 Nov 2026 06:00:00 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Surprise ! Une nouvelle mise à jour est disponible pour Hogwarts Legacy - Journal du Geek",
+      "summary": "Surprise ! Une nouvelle mise à jour est disponible pour Hogwarts Legacy &nbsp;&nbsp; Journal du Geek",
+      "source": "Journal du Geek",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFZwTzdQSGJRTDAta3FhVTdpaW1kSjRTMXdlbXFTc2tZa2xDVTU1Y1RVS2k5Y2g3YTVEcm1RV3k5NHZvRThHeE1ma0JVbnFIZ0IwenlLczRkREVaM2diYWtkTXRkR3Q0SFRKVE15VVpoZlU5amRncWZxZVVFOFhYR3RJdmZVWEF3RGtKU29WOTd6VlF4S282Q2ljWXBWQlNWOW5FNnZwWjRzamF6ak5BcA?oc=5",
+      "published": "Thu, 05 Nov 2026 15:32:48 GMT"
+    },
+    {
+      "category": "Gaming",
       "title": "Henry Cavill développe son premier jeu vidéo - Journal du Geek",
       "summary": "Henry Cavill développe son premier jeu vidéo &nbsp;&nbsp; Journal du Geek",
       "source": "Journal du Geek",
@@ -322,20 +306,20 @@
       "published": "Fri, 06 Nov 2026 06:04:15 GMT"
     },
     {
-      "category": "Tech",
-      "title": "Googlebook : des apps Android posent déjà problème sur Intel - BlogNT",
-      "summary": "Googlebook : des apps Android posent déjà problème sur Intel &nbsp;&nbsp; BlogNT",
-      "source": "BlogNT",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVi1VX1VTOWlxMnVCOTgtUWFTSklzRmFPRkNOalNzMDRvalluN1BFbVJneDdsWVR5aHpHY1hfbHl0VW9KNEczWDhFNW9uZ3NSVWZuN1J5RVl2ZXI3STcxMmFxYmhYMUtTUURhMjVlcVQ1TUZtLWdCS09BeDF2YmVNbEotQUx4by1XNEVnZHFxWlB3OGc1NzJrYTVCQWsyRlU?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "category": "Gaming",
+      "title": "Zelda Direct : toutes les annonces résumées en live sont ici - Journal du Geek",
+      "summary": "Zelda Direct : toutes les annonces résumées en live sont ici &nbsp;&nbsp; Journal du Geek",
+      "source": "Journal du Geek",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX21GTlpBSTBDMk1sRE1qVXFUMk5JNWlOb0hfcm1iLU1kOFBMRGNvYXJZMHFqTzM3LWFKUDhQQ2lQMlVPVFN1cHZHaXR5d21zVThWQVdXMk0weWdyYmQyRDhnSTg5aTBWeWNxRnFQTGR6WGdJM0IzUC1jaFlJaEdoRDVWNGVGaUFtMjhnWVJjUWtraTRjT3FkWFRlUFV1SElHNWc?oc=5",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT"
     },
     {
-      "category": "Tech",
-      "title": "Android 17 : Google déploie la fonction Continue activity - BlogNT",
-      "summary": "Android 17 : Google déploie la fonction Continue activity &nbsp;&nbsp; BlogNT",
-      "source": "BlogNT",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pxQVZYelotRmQzR2lYa0NmdnI3Z0E1WGVsU2YzNFMxdlN4b1p6b3IzY3U4TnREUjVRV3Vvc1NkaW1BRi1HOC1YcG1wSjFTZFMwV21ld1FfMHJkTy1CMVROWms4dlRlS05hUEF2U09jZmhKcFA1NHlnVFRnVkhRSzVaTW5ObHR6YWlzeGRuVQ?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT"
+      "category": "Gaming",
+      "title": "Il sera possible de jouer à GTA 6 dés le 18 novembre avec l’astuce de la Nouvelle-Zélande - Journal du Geek",
+      "summary": "Il sera possible de jouer à GTA 6 dés le 18 novembre avec l’astuce de la Nouvelle-Zélande &nbsp;&nbsp; Journal du Geek",
+      "source": "Journal du Geek",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOekVZaWdQQjZwODJNZTJzdm4zTXgxdFVtMTF5dWJlUnpWeF9jYjZUdkEyeThJaUhQV2NQUHZHeFJVbFphY19JYkxKajM1bFJ6V25TX0lBZkc4bGV4SVVBRlNMX3hwbUI5blFaZUczdGtSTVZxTE9tSDkxbEFfWnV6WFVjRTVsSDMwUk8ydmNsNkhKT1FOcGZabXdHQTBFM1Q1cUVYanRvTHZObzVsc3pjS2VDNGt4WnhNYjJzaXN6N2tCaU9YdHY5TENUMjk1eGZpQTZzNQ?oc=5",
+      "published": "Thu, 05 Nov 2026 08:12:02 GMT"
     },
     {
       "category": "Tech",
@@ -344,6 +328,14 @@
       "source": "BlogNT",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU25NZGM4Z0xRRzZpTHN2WTVJU3NuNWYxeVBVME9vZFRENng5ak1KT05tMjgzVW1jWENFbnpfQjZYLU80VFBqSmprdDF1eEQzMjhsMFhzQWp5LU5yUHFSbjhpaW00UUVsNk1qYVJUcXRnMlNkazl3d09mRHczVVVVdzk0WkZRRHRPUzBDaThWbTJLcVE?oc=5",
       "published": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Googlebook : des apps Android posent déjà problème sur Intel - BlogNT",
+      "summary": "Googlebook : des apps Android posent déjà problème sur Intel &nbsp;&nbsp; BlogNT",
+      "source": "BlogNT",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVi1VX1VTOWlxMnVCOTgtUWFTSklzRmFPRkNOalNzMDRvalluN1BFbVJneDdsWVR5aHpHY1hfbHl0VW9KNEczWDhFNW9uZ3NSVWZuN1J5RVl2ZXI3STcxMmFxYmhYMUtTUURhMjVlcVQ1TUZtLWdCS09BeDF2YmVNbEotQUx4by1XNEVnZHFxWlB3OGc1NzJrYTVCQWsyRlU?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
       "category": "Tech",
@@ -360,6 +352,14 @@
       "source": "ActuaLitté.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1lPQXBVWGZZejR5ajRrUWhrdEF2NjVRT0xjdExNMTgzNHFnbXphNGp2NnE4MFNfdzVpTkl0eHIweFZwVzZjUUJhT0tiSTZMSzd3N3d2b01YR2UzYzJZY3kzR3gybDZJdDdjaFRhNm1QdEZLbl9saHp1TGpKaFp4SHpOX3FrbjRmMC1lLXpCMXpQX1VmNV9JSlBFTTNGTXNMaXRReHo0OERsalhtQnVwYnowZ0EyNW5aTWc?oc=5",
       "published": "Fri, 05 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Android 17 : Google déploie la fonction Continue activity - BlogNT",
+      "summary": "Android 17 : Google déploie la fonction Continue activity &nbsp;&nbsp; BlogNT",
+      "source": "BlogNT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pxQVZYelotRmQzR2lYa0NmdnI3Z0E1WGVsU2YzNFMxdlN4b1p6b3IzY3U4TnREUjVRV3Vvc1NkaW1BRi1HOC1YcG1wSjFTZFMwV21ld1FfMHJkTy1CMVROWms4dlRlS05hUEF2U09jZmhKcFA1NHlnVFRnVkhRSzVaTW5ObHR6YWlzeGRuVQ?oc=5",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT"
     },
     {
       "category": "Tech",
