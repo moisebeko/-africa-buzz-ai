@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T07:09:40.200835+00:00",
+  "updated_at": "2026-11-14T12:58:28.424814+00:00",
   "articles": [
+    {
+      "category": "Cameroun",
+      "title": "Cameroun/RDPC: des commissions spéciales d’investiture instaurées pour les municipales - Journal Chrétien",
+      "summary": "Cameroun/RDPC: des commissions spéciales d’investiture instaurées pour les municipales &nbsp;&nbsp; Journal Chrétien",
+      "source": "Journal Chrétien",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUdhbXhOUjBmUlhvTnU5M2Y5S0h1X1Uyck1UU0JRdkdnWW1DWHRkbGllZnpZWXUzQ3lhcFRaaXItdXpya1JidWpXd3AwZWlOcUdEQ1pOeG9EYmRUNlhiWXB0YUN3ZnhQdU43aXR2M0NLTGNHc3RsblhwZ1NYM2U3N1ZVUG04N2hjYUZMODF2OW9wNUNxNVFwTDU4MDNQN1k1YWMyTjBEaHUxZldFRWZfQjM5bHJjM3VyLUtGNm5STGFZa21oM2pXM2xic3EydEE5?oc=5",
+      "published": "Sat, 14 Nov 2026 12:16:36 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Cameroun: finis les «candidats imposés», aux législatives et municipales, le RDPC revoie sa stratégie - Yahoo Actualités",
+      "summary": "Cameroun: finis les «candidats imposés», aux législatives et municipales, le RDPC revoie sa stratégie &nbsp;&nbsp; Yahoo Actualités",
+      "source": "Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObG9YLXlia3V6VmE0Ry1PMmZXbEpIMV8wWEU4Zy05MmFVYXBMQ2pFcEdfdlNDSmRqZzhoaGRCdGx0SlZ1MW80Qk0taU9ObVFTeThHTzIxMmI5cm9RMDRhNWxwSjhPaXRURGVOWWw4REd5WHRWdHE2cElPamFWbGRkc3kyZkdQbGN5czV2cHJBZGNDNGJoMWJpQzZ4aFE?oc=5",
+      "published": "Fri, 13 Nov 2026 23:09:00 GMT"
+    },
     {
       "category": "Cameroun",
       "title": "Cameroun: les évêques de la CEPED dénoncent les féminicides et appellent à l’autonomie des séminaires - Vatican News",
@@ -19,19 +35,11 @@
     },
     {
       "category": "Cameroun",
-      "title": "Cameroun: le calendrier électoral se précise - Yahoo Actualités",
-      "summary": "Cameroun: le calendrier électoral se précise &nbsp;&nbsp; Yahoo Actualités",
-      "source": "Yahoo Actualités",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2Y4dE5DSkxMQjhhZWdVb3o2YURVd1BkNm45VXNvMEQzYnIyc1lMSkV0U1ZOY24yV2ZZTTdNOFlwWjlRcmltRjE5VHZ6MTFNMktlU3JOeFFkcnRTamVGVzVlQVExbVY1c3czTU9oaDRoaGZHMTRtbXNNV0Frc2xzbGwySHhyRklyYmZDMURkZTFSQQ?oc=5",
-      "published": "Wed, 11 Nov 2026 22:40:00 GMT"
-    },
-    {
-      "category": "Cameroun",
-      "title": "Éliminatoires CAN 2027 : le Cameroun domine la Namibie (2-0) et consolide sa première place - Journal Chrétien",
-      "summary": "Éliminatoires CAN 2027 : le Cameroun domine la Namibie (2-0) et consolide sa première place &nbsp;&nbsp; Journal Chrétien",
-      "source": "Journal Chrétien",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRW5Zb3l5bjhYZHloYWpNcm13bnl5RzJTbW1zRENzRl9BNHFKRUlReGdyeFQ4dWJaMkZmLTVyMDlJMGpXaWs3R3QtQl9PZVJNaVhxb0xONHN1UkxzaFVOUm1JSlJWaU53aExCcUhFOWloUjNUUzhPb0pQQUJ1eXh1NEk2RTFOTFlWanlIN0FUYXhjWUdXQW9xSWIwZEVtODdYdDM4WFdhWk9idUdpZFQ1NzZuS3kwUEZCS3ZWbklJSE53elR6SGlJOC1PdmVQWkNYaGNidA?oc=5",
-      "published": "Fri, 13 Nov 2026 10:06:36 GMT"
+      "title": "MRC : Pierre Emmanuel Binyam officialise sa candidature aux législatives 2027 dans le Wouri-Est - Actu Cameroun",
+      "summary": "MRC : Pierre Emmanuel Binyam officialise sa candidature aux législatives 2027 dans le Wouri-Est &nbsp;&nbsp; Actu Cameroun",
+      "source": "Actu Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNHB5aDZtUEppV0t4bUFtT185NXBHYWdwSEtMbVhWRTJQQjVTTVEyWGJPQW9TRHNrLUpQOHNKSWVtM1prN2hzbzBGaFg4enNoZHNNT2ViX2FlRHM2TWxoQWczSmdHcGpVQV80VTBTMmQwZnNseUVVYlk1b3NTQm02cjlPTzBMNHZMRWFsSjZKU21hT1lqejBnYm1HbEdnVF9qYXZsdm13cXNCcXNMTWZzM3NPTnZpNUVUbGl6N1FoMVhkNFV5T2lCNDl3?oc=5",
+      "published": "Sat, 14 Nov 2026 08:49:34 GMT"
     },
     {
       "category": "Cameroun",
@@ -43,14 +51,6 @@
     },
     {
       "category": "Cameroun",
-      "title": "Marche d’opposition en RCA: « beaucoup de bruit pour rien » - Actu Cameroun",
-      "summary": "Marche d’opposition en RCA: « beaucoup de bruit pour rien » &nbsp;&nbsp; Actu Cameroun",
-      "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmloUnBpZFBoQW9MOGRHX0g0QWZYX2ZNNXE4NmVfWFZWZG04U2twUVIxS3d1ZEF3VnNaQmNSZFBjVWtMQVF6R1ZwRXFGVG5NMy1xdzdwa0gtNXM0SF9QYW12SVZrWVVMVnVjU0xXSmFzRThFUEJ3bjYyUGxkLVI4UjNPY1VfeFk2di1QOGwxb055dUpY?oc=5",
-      "published": "Fri, 13 Nov 2026 16:24:48 GMT"
-    },
-    {
-      "category": "Cameroun",
       "title": "Cameroun : des populations appellent au changement lors des législatives - Africanews",
       "summary": "Cameroun : des populations appellent au changement lors des législatives &nbsp;&nbsp; Africanews",
       "source": "Africanews",
@@ -59,27 +59,27 @@
     },
     {
       "category": "Cameroun",
-      "title": "Issa Tchiroma Bakary appelle au boycott des élections législatives et municipales de 2027 au Cameroun - Demócrata",
-      "summary": "Issa Tchiroma Bakary appelle au boycott des élections législatives et municipales de 2027 au Cameroun &nbsp;&nbsp; Demócrata",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT2dIbUM5ZFZ1WGhST1ZKU3RybmlEdDNIVGQtSElkQU9XZ2wybEdRUlJGNW1LSlM5dUZ5UE43SDRUNlp5RzFmWWRFWnZtSl9MMDU0VXJkRmpNTkpmVHJQRGZpTEJOWHg5Z0FIQUJST3hCdXB5Wnk5T0w2WmpJM2R3STdmWE41QWhpQTZDaHN0TExTOGQ0bUk0QTZoaTRPVFBCbWRTOHBKaFJfcFMza2VSU19hOUtNNmpoUzVIUXR0bkVlWURMNFBmU0Z0UE8zMDJZa2JlT29IX2FUUVB10gHiAUFVX3lxTE5xZC1XSWV3M2lXcnRJb1BldGt5YzhiVTRxcWNsbHJfekxWbnlVR1A3QWxzQlBQSl9sU2hQY2Jwc1FsRFpJWWI1VlMxRC1NS3VKbTVBN0c4VXhJY09vcEhkMWlLNnd6Ti1LQkVZbzU5WWp4VGhUeVZFZ2lIR3pNQjlOMXJGcEtpYmdVX1Vjb2FiVmxTdFRKZjdEVU42TjVuQ3ZkUDJPeW90LUU0ekwydlJ6cHJTMllUZUpsNWFkdy1mRHd2cVY3YlZWRlhibW55blpkSjBBajZNajNlbmhtOGdWUHc?oc=5",
-      "published": "Sat, 14 Nov 2026 06:24:30 GMT"
-    },
-    {
-      "category": "Cameroun",
-      "title": "La Nuit Chargée, Orange Cameroun déploie sa campagne de fin d’année et multiplie les récompenses - Digital Business Africa",
-      "summary": "La Nuit Chargée, Orange Cameroun déploie sa campagne de fin d’année et multiplie les récompenses &nbsp;&nbsp; Digital Business Africa",
-      "source": "Digital Business Africa",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGlPam4yT2pyRS03UHRodjcwUEswTThrajk0ZjVNVEhMRlJ1NThRU3FnaG9tUlQtSVFOX3d1STloal9lOGFWckhKcTZENmlWUG1UZ0lIb2Y4ZGZiNWdPVXJXWXYtVmpqZVptVEdWOWNGU04tSWZaQ3VsYi1sa19mdElfOU1uR3FzbGNhdVU2SndpNmkzRDM3TmlyNWFIWkdzNDVzRFhEb0RkRzN1MHdBMU1XUWJMbEhINk8tWmJhdV9nNmFaV1R3U1hn?oc=5",
-      "published": "Fri, 13 Nov 2026 20:15:35 GMT"
-    },
-    {
-      "category": "Cameroun",
-      "title": "Cameroun: l’ONG Mandela Center maintient la pression sur les transferts de personnes expulsées des États-Unis - Yahoo Actualités",
-      "summary": "Cameroun: l’ONG Mandela Center maintient la pression sur les transferts de personnes expulsées des États-Unis &nbsp;&nbsp; Yahoo Actualités",
+      "title": "Cameroun: le calendrier électoral se précise - Yahoo Actualités",
+      "summary": "Cameroun: le calendrier électoral se précise &nbsp;&nbsp; Yahoo Actualités",
       "source": "Yahoo Actualités",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIWFhKUHB1dF9hcUp5UnVxVGRaZkM2dFNwOHNMTUJfQ0pSY0dGeG00T0FlaklxcUNjOU5iWlRFTDJiSU5IS0syQmxXY1E5VDlUOHN0MFdKRzlfX3VBeVU4LWNtYkF1NU9oWTd2X3BSR0dPUVFSRzRxcFdB?oc=5",
-      "published": "Thu, 12 Nov 2026 19:56:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2Y4dE5DSkxMQjhhZWdVb3o2YURVd1BkNm45VXNvMEQzYnIyc1lMSkV0U1ZOY24yV2ZZTTdNOFlwWjlRcmltRjE5VHZ6MTFNMktlU3JOeFFkcnRTamVGVzVlQVExbVY1c3czTU9oaDRoaGZHMTRtbXNNV0Frc2xzbGwySHhyRklyYmZDMURkZTFSQQ?oc=5",
+      "published": "Wed, 11 Nov 2026 22:40:00 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "David Pagou : « Notre futur, c’est notre jeunesse » - Actu Cameroun",
+      "summary": "David Pagou : « Notre futur, c’est notre jeunesse » &nbsp;&nbsp; Actu Cameroun",
+      "source": "Actu Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEVla1QtWkhoQWxWZGo4ekVxN2syUVVVdDZ3Wmtudm5DaTNjVzN6bHpWNWRSanhxbndSV0k5MFE5VHBGWkgwOUVYaHdWb0ttVEhpZHo5UnE2M0lzQ0N3RnB3R0plbHNXaDlDWFU3V0l1M2cxVFpjWURYci1RQ1NxTzA1M3psMkE?oc=5",
+      "published": "Sat, 14 Nov 2026 09:59:01 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Éliminatoires CAN 2027 : le Cameroun domine la Namibie (2-0) et consolide sa première place - Journal Chrétien",
+      "summary": "Éliminatoires CAN 2027 : le Cameroun domine la Namibie (2-0) et consolide sa première place &nbsp;&nbsp; Journal Chrétien",
+      "source": "Journal Chrétien",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRW5Zb3l5bjhYZHloYWpNcm13bnl5RzJTbW1zRENzRl9BNHFKRUlReGdyeFQ4dWJaMkZmLTVyMDlJMGpXaWs3R3QtQl9PZVJNaVhxb0xONHN1UkxzaFVOUm1JSlJWaU53aExCcUhFOWloUjNUUzhPb0pQQUJ1eXh1NEk2RTFOTFlWanlIN0FUYXhjWUdXQW9xSWIwZEVtODdYdDM4WFdhWk9idUdpZFQ1NzZuS3kwUEZCS3ZWbklJSE53elR6SGlJOC1PdmVQWkNYaGNidA?oc=5",
+      "published": "Fri, 13 Nov 2026 10:06:36 GMT"
     },
     {
       "category": "Afrique",
@@ -91,14 +91,6 @@
     },
     {
       "category": "Afrique",
-      "title": "Afrique: Revue de presse de l'Afrique Francophone du 13 novembre 2026 - allAfrica.fr",
-      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 13 novembre 2026 &nbsp;&nbsp; allAfrica.fr",
-      "source": "allAfrica.fr",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3S19QTXlKTy15aWtiOFZFT3BKNkVYNC0wTDB3V3Y0TTJaRkVCN0gwMzBkSEtzQ29GWlpvTXdBUGFTY2c5b2otSWxRSmVaenNDTWZWbjRIQ2FWaHQ0aEtV?oc=5",
-      "published": "Fri, 13 Nov 2026 09:23:57 GMT"
-    },
-    {
-      "category": "Afrique",
       "title": "Revue des sites d’actualité africaine francophone - 237online.com",
       "summary": "Revue des sites d’actualité africaine francophone &nbsp;&nbsp; 237online.com",
       "source": "237online.com",
@@ -107,27 +99,11 @@
     },
     {
       "category": "Afrique",
-      "title": "Emmanuel Macron : Que révèle le sommet Africa Forward sur les relations entre Paris et l'Afrique francophone ? - BBC",
-      "summary": "Emmanuel Macron : Que révèle le sommet Africa Forward sur les relations entre Paris et l'Afrique francophone ? &nbsp;&nbsp; BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NLXN5ekJtTE5tNGtFRGtaQjRGQ1RxZWhoR1ZELWpZUFNfLUNhQ0VLMy1JeHRCOVdDSkhfbXZNQ3ZPNk5DMFF1aGRYWXRqVWw3ME1lYWN3RkxrTUxvdnfSAWNBVV95cUxNWXIzTDktd1o1RVhPdGV1Y3UtUFZsTWZaZTMwOUJDVktNeWI2THhSbF9Oa1RoYmhEdzJkN2liZmEzeXgyNzVoUDd3R29IVWFRS0lETFg0czktZEJlYXpQcWJieGs?oc=5",
-      "published": "Tue, 12 May 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Afrique",
-      "title": "Ghana : le premier salon du livre francophone veut faire d’Accra un carrefour linguistique en Afrique de l’Ouest - Africa News Agency",
-      "summary": "Ghana : le premier salon du livre francophone veut faire d’Accra un carrefour linguistique en Afrique de l’Ouest &nbsp;&nbsp; Africa News Agency",
-      "source": "Africa News Agency",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSlI5OFdlMzJpRU12TE1FMnJpY0NEZDh5UGUyX0RkSGNwS0J1eWdaMWM0S0UxVEhMTkI1RnBuLW9aTGFXQzdNVGVlaV8yVDlNbXJiMXh4a1E0UERPdHM0azR6bzZjRnBXZDBnS3QyalZ2bGhTdHBPTHJON2NZTzZHMjdwZXBnaHpOOVpHRUFXd2EtNERyczhJMkxmVno1T25yX1MzVE9GR3RRdEtabFV4V0dhSHBwZEkwTHk1UE9qUFhxOTlLTHRhREdndDgtNWRTSTJlc2Y4SQ?oc=5",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Afrique",
-      "title": "Elle Afrique Francophone : Angélique Kidjo en couverture et invitée exceptionnelle d’Africa Radio - africaradio.com",
-      "summary": "Elle Afrique Francophone : Angélique Kidjo en couverture et invitée exceptionnelle d’Africa Radio &nbsp;&nbsp; africaradio.com",
-      "source": "africaradio.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUpUbHlTSkctUmpacU5KdTdRdlFTSW1scGtQSHNiM1NXZWlzMWF2Ukd6cHh0VXo1OHZIU3A0c01OZTRZSmdmeGk3bWo0UGVHUU1leVpjNUIwX1lYaHRBQ3dycl81SDhDUUdWWTBrQjJ2eEFyOFR2VTJFbWluRFZWUzB3bHl0bmp1d0RhcXNWQnlfQUh4Xzgtck92dVBQSzdLdFVOemRkNDNxWERMdUxodVRzZG1MaHVtWnJRWkJiN29mTkFPOWlaSGNpN2RydDVrZ053T1NwRQ?oc=5",
-      "published": "Sat, 11 Apr 2026 07:00:00 GMT"
+      "title": "Afrique: Revue de presse de l'Afrique Francophone du 13 novembre 2026 - allAfrica.fr",
+      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 13 novembre 2026 &nbsp;&nbsp; allAfrica.fr",
+      "source": "allAfrica.fr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3S19QTXlKTy15aWtiOFZFT3BKNkVYNC0wTDB3V3Y0TTJaRkVCN0gwMzBkSEtzQ29GWlpvTXdBUGFTY2c5b2otSWxRSmVaenNDTWZWbjRIQ2FWaHQ0aEtV?oc=5",
+      "published": "Fri, 13 Nov 2026 09:23:57 GMT"
     },
     {
       "category": "Afrique",
@@ -139,6 +115,22 @@
     },
     {
       "category": "Afrique",
+      "title": "Ghana : le premier salon du livre francophone veut faire d’Accra un carrefour linguistique en Afrique de l’Ouest - Africa News Agency",
+      "summary": "Ghana : le premier salon du livre francophone veut faire d’Accra un carrefour linguistique en Afrique de l’Ouest &nbsp;&nbsp; Africa News Agency",
+      "source": "Africa News Agency",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSlI5OFdlMzJpRU12TE1FMnJpY0NEZDh5UGUyX0RkSGNwS0J1eWdaMWM0S0UxVEhMTkI1RnBuLW9aTGFXQzdNVGVlaV8yVDlNbXJiMXh4a1E0UERPdHM0azR6bzZjRnBXZDBnS3QyalZ2bGhTdHBPTHJON2NZTzZHMjdwZXBnaHpOOVpHRUFXd2EtNERyczhJMkxmVno1T25yX1MzVE9GR3RRdEtabFV4V0dhSHBwZEkwTHk1UE9qUFhxOTlLTHRhREdndDgtNWRTSTJlc2Y4SQ?oc=5",
+      "published": "Mon, 27 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Afrique: Revue de presse de l'Afrique Francophone du 10 novembre 2026 - allAfrica.fr",
+      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 10 novembre 2026 &nbsp;&nbsp; allAfrica.fr",
+      "source": "allAfrica.fr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0WjdSYkQyMG9pZFN2d05DSE9PaWdPME5IeUdLNzJBcnV4YW82dHNZQnlWQ2xORXRzYjRCZU5CVkNKU05tZjg5Y0xrS0FCRTktd0ZJcy1USkNOLTlEb19j?oc=5",
+      "published": "Tue, 10 Nov 2026 09:31:43 GMT"
+    },
+    {
+      "category": "Afrique",
       "title": "Afrique économie - L’Afrique francophone veut accélérer le financement des start-up - RFI",
       "summary": "Afrique économie - L’Afrique francophone veut accélérer le financement des start-up &nbsp;&nbsp; RFI",
       "source": "RFI",
@@ -147,19 +139,27 @@
     },
     {
       "category": "Afrique",
-      "title": "Etude : l'état du fact-checking en Afrique francophone - DW.com",
-      "summary": "Etude : l'état du fact-checking en Afrique francophone &nbsp;&nbsp; DW.com",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94SVRFWDZFeml0MzVEcllxcVU2MnVwajJEei00LVlPWi13WGZNVldldUMxQl92Zm96WHZFRk9DVmlRTlprWG9RMWVsZEJIWmp1cnJvVXVkbHFMZFV1aDdGeFZLdnNmZm5JUmdVekVFcmJ1TmNR0gF0QVVfeXFMT0NzTVNfU3Y5WTJoUWZfMWtUR1l4QjgwRmJOUk1uS2o5akhpTUV3MWhKNmFNNXhYWkUySXNFcVBkYklnRzFrY3lCNDM3WDdSNXh5MFZPZ1lsTmstMUc3YzFEdDFtRGtxQmFWb2E2QjNsdTNJcVk?oc=5",
-      "published": "Sun, 05 Apr 2026 07:00:00 GMT"
+      "title": "Salon du livre d’Afrique francophone : quand Accra devient un pont entre les Afriques - Africa News Agency",
+      "summary": "Salon du livre d’Afrique francophone : quand Accra devient un pont entre les Afriques &nbsp;&nbsp; Africa News Agency",
+      "source": "Africa News Agency",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNElsck9JdS1uNDB5SlpGMGs5ZmpKYmUtN3FWYjhWQWlXc0RNQTd2N2UyOHFtcnl4VVkwNE5Xcmc2aUw0ZGxUc1JlUWYzSjljdlVNUjYzVnhEWjNHdEZucVlrbFk1VW1sekJMWkkxX0w2QWlUUTF0SkhLblp1X1k0WU9tb3BiQ1FTbXFNa2Z1NGJRZE9PTXgwbzUxWHhSbFQ1U2Q5YklORTRKQWVlUlhId29sRWk?oc=5",
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT"
     },
     {
       "category": "Afrique",
-      "title": "Afrique francophone : soutenir l'enseignement en langues maternelles - AFD - Agence Française de Développement",
-      "summary": "Afrique francophone : soutenir l'enseignement en langues maternelles &nbsp;&nbsp; AFD - Agence Française de Développement",
-      "source": "AFD - Agence Française de Développement",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wbHFRMG42eDd2S2VBX3ZfUHhxUjR6QW1ncVBPNUZlQ2FpVnJYT2hjOWpPV1ZLeXhmNTludTNNLUpmMWpDYzlHSGxta2lITmdybjRXSUk2WmZRUTJBMjdZSjdnb3ZzQmJveEpXUi0yZUxGX19pbFAxSG9pR2p1ZjA?oc=5",
-      "published": "Fri, 20 Feb 2026 08:00:00 GMT"
+      "title": "Analyse de l’actualité africaine francophone - 237online.com",
+      "summary": "Analyse de l’actualité africaine francophone &nbsp;&nbsp; 237online.com",
+      "source": "237online.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dDNfR2g2VjJyODZXTVM4WlNPclZkcnN3LXpBdC1IdWFQb2lxR3JTUm9iUDY0RHVQbUtBZDR2Sl9nSm9DSUFhVE9oaTZTd3pLdVZXOXFhaC1lSjRnd2JPYUhLNkNZTFY5d0o0RW1ROEFlWmpJ?oc=5",
+      "published": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Afrique",
+      "title": "Afrique: Revue de presse de l'Afrique Francophone du 9 novembre 2026 - allAfrica.fr",
+      "summary": "Afrique: Revue de presse de l'Afrique Francophone du 9 novembre 2026 &nbsp;&nbsp; allAfrica.fr",
+      "source": "allAfrica.fr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RHJpbkN3MzZ3bWpEWW12SW9tMDQyNU9Ob2VuY2p1RndwR3ZiWm9KV0lON3JUTl9hbHBnMzJ2ZW9vajhkQ3pqdDhvV0pXcHBDUllfS3dSNFBQQkRkYmZZ?oc=5",
+      "published": "Mon, 09 Nov 2026 09:46:29 GMT"
     },
     {
       "category": "Sport",
@@ -187,19 +187,19 @@
     },
     {
       "category": "Sport",
-      "title": "Éliminatoires CAN 2027: la Côte d’Ivoire et le Cameroun assurent, le Sénégal s’amuse - RFI",
-      "summary": "Éliminatoires CAN 2027: la Côte d’Ivoire et le Cameroun assurent, le Sénégal s’amuse &nbsp;&nbsp; RFI",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV3g5QTZSWTVIZ2RUNTY4aGtUQTRaQnFyWkx0SzlCUkZzUXFDUzd6S2pzTEVQWEg0aU5QTnkwRjE4QVpSdFI2WjJ4NHY1dXRldnRsaGt3cUVQaTZObkItZmFnVjFEOE9SX0s0UGRUaFFsRFZBTlJhU0REelF5MGVEUk4zYzlzYlZJQmE5ZXl1cENsYjktZEhxQW52RmpGOVI5U2Jmci1lMFhxc2ZqLXZmUEpfc2FSSUFCQXY0dDh2Njg1MzBkQnRjNVp1X3RKQVdBNEZRd3p3MGFhRHBBTUFj?oc=5",
-      "published": "Thu, 12 Nov 2026 21:11:53 GMT"
-    },
-    {
-      "category": "Sport",
       "title": "Eliminatoires CAN 2027 : résultats de la 3e journée et les affiches à suivre - BBC",
       "summary": "Eliminatoires CAN 2027 : résultats de la 3e journée et les affiches à suivre &nbsp;&nbsp; BBC",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Xci00OUVCOWdwZE9FY1AwYk0zR21HZ2pWR2pqUlpYYUhVcVlHRk5sY2t1eTZiTHVKeUFFMUp4MkNfZHczT1NOaFpiX2ZrR1NOTFUxSnBpT0lEVENNbEtz0gFkQVVfeXFMUEc3aXhLVmVQS0RxMUlHS2s4UnMzLWZ0TW4xZ081Y0Q3SkRiRWY3VFV0VEtKVEc2UVEyb2FSM29tTC1ESVgwN0hsdWEwYm14V04zWmZxZUxCb3VmTzJvbXFXai1jcw?oc=5",
       "published": "Thu, 12 Nov 2026 13:03:42 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Éliminatoires CAN 2027: la Côte d’Ivoire et le Cameroun assurent, le Sénégal s’amuse - RFI",
+      "summary": "Éliminatoires CAN 2027: la Côte d’Ivoire et le Cameroun assurent, le Sénégal s’amuse &nbsp;&nbsp; RFI",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV3g5QTZSWTVIZ2RUNTY4aGtUQTRaQnFyWkx0SzlCUkZzUXFDUzd6S2pzTEVQWEg0aU5QTnkwRjE4QVpSdFI2WjJ4NHY1dXRldnRsaGt3cUVQaTZObkItZmFnVjFEOE9SX0s0UGRUaFFsRFZBTlJhU0REelF5MGVEUk4zYzlzYlZJQmE5ZXl1cENsYjktZEhxQW52RmpGOVI5U2Jmci1lMFhxc2ZqLXZmUEpfc2FSSUFCQXY0dDh2Njg1MzBkQnRjNVp1X3RKQVdBNEZRd3p3MGFhRHBBTUFj?oc=5",
+      "published": "Thu, 12 Nov 2026 21:11:53 GMT"
     },
     {
       "category": "Sport",
@@ -219,11 +219,11 @@
     },
     {
       "category": "Sport",
-      "title": "Cameroun : le Canon de Yaoundé célèbre le Ballon d’Or africain 1980 - Africa24 TV",
-      "summary": "Cameroun : le Canon de Yaoundé célèbre le Ballon d’Or africain 1980 &nbsp;&nbsp; Africa24 TV",
-      "source": "Africa24 TV",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVc0eXBHZjRpb1RPYmVZc01rdEZGcE9LNXhQcVVKUjQ0dFd4cjUtNWZDVDIzazR3WlRQRTNjbnJUWHpJRDFtRXVaMXJsTFF1aFg2ZGxDaDV1dGJoX002akpHNWY3M3U5UVVJZHBiS3ZPcFotNjI4Q3B4NFQ2OXBLUWNzMTNLTDVwNkN1RnlNTjEzdw?oc=5",
-      "published": "Thu, 12 Nov 2026 19:47:00 GMT"
+      "title": "Eliminatoires CAN 2027 : le Cameroun reste leader, voici le classement du groupe G après la 3e journée - Actu Cameroun",
+      "summary": "Eliminatoires CAN 2027 : le Cameroun reste leader, voici le classement du groupe G après la 3e journée &nbsp;&nbsp; Actu Cameroun",
+      "source": "Actu Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRmpCeTBJdUstTmlEQ2xiaHJhc0NLRWplQXk1Q2RORUV4dEEtSDh2NlN3ZEhFSXBwajB0eEt2MG5MaTVQRURrcjQ2NW5xMEg1MFZoWGQtTzctSkJ5T0d4SWJwRHE4dENuaVJFcEFLeVZsY0w0d3poSzI3aDF6LURCYll1VWE3RC1NV1RTMnNHR1hkV3ZwX3N5b2NQOTlrd1hkaGRLTHFRcE1xMUgxV0I3Xzh4cmZPSzQ3Ymw4WU9va3VkU3FHbXEyWUkwbml6VDliTnc?oc=5",
+      "published": "Fri, 13 Nov 2026 17:58:27 GMT"
     },
     {
       "category": "Sport",
@@ -243,11 +243,27 @@
     },
     {
       "category": "Gaming",
+      "title": "Du studio provocateur à la poule aux œufs d’or avec GTA : comment les enfants terribles de Rockstar Games ont mis le jeu vidéo à leurs pieds - Le Figaro",
+      "summary": "Du studio provocateur à la poule aux œufs d’or avec GTA : comment les enfants terribles de Rockstar Games ont mis le jeu vidéo à leurs pieds &nbsp;&nbsp; Le Figaro",
+      "source": "Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQM2xBV0o4QnMzalNWT1lrTlRRM3VzWTFuUlpqRDJRYmctV0xDQ0VFbjNabHg5LXVQOGw2a2ppS3dlYTFBOUNIeFl1UkZjdk9jSkwyVXJ2TklySXZLLXhiSndOc1NTeDYxSThVcGF5UzR5MUhCQWY2U1A5QWU5U2F3NDVqdFNGZXdRWU5qWGRPblZzSW5MY01ZUlJYNkV5XzZoMlQweXVEdHF4b1VuX3l3MlY5aUxjTXBDV2Npd3BiYXdmWnVMenJobnhINmNXbUEwQ2pKQW9heTg2cHg2aUtwYkNMaTU4WVVJQVY2VlVDQnh4M2I1SXRGYktvd3VxbHJJQkE0TmpXUFRrNy1POHZGY0NkS1AzM2ZCLVE?oc=5",
+      "published": "Sat, 14 Nov 2026 09:30:42 GMT"
+    },
+    {
+      "category": "Gaming",
       "title": "Les sorties jeux vidéo les plus attendues du mois de novembre 2026 - L'Éclaireur Fnac",
       "summary": "Les sorties jeux vidéo les plus attendues du mois de novembre 2026 &nbsp;&nbsp; L'Éclaireur Fnac",
       "source": "L'Éclaireur Fnac",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkhCc3Vkd3JMYTNmUWEwcTBSSW9seXV2SDZJUUQxVS1XV0xEVldkcXhkeU9tNmZwcFVNcE51WTRDSUw3QVBzNUlNTVZsdURpWDRUNzZNNW5lQWZIaG0zNGtMOVNnT1JQdFRfNDJfTmtqdkxWcHNSdXNWY0VTei1xbVpRSnBCdWhFOFVaenRBd0d1azg4cmQ2dHR1M3IzSk5CWXRfTXJUWHVweTlrdzFMakp6OA?oc=5",
       "published": "Tue, 03 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Wolfenstein 3 : l'annonce qu'on attendait tous enfin officialisée - La Crème Du Gaming",
+      "summary": "Wolfenstein 3 : l'annonce qu'on attendait tous enfin officialisée &nbsp;&nbsp; La Crème Du Gaming",
+      "source": "La Crème Du Gaming",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWE94Uk82d1pOYWl3SF9fWldnaEl4Z2ZzakFCS2EtXzlYdUFEVElLZ3lKV19jUXFsVVE0UXhrNlZIZVd5VDhzdVYzT0dIUUhnUUFLeTVVd2ticndYclJBY3dXMVhaVVBLMzR0X1hPR3V0VW9IZXo3U2dCRFJFSnZfS3BrNUJ0VkJnRUZlNzJUdldBSWFNQVZHZVJZOFhCVzZjZ1lFaWhSTExnUjR6NmJF?oc=5",
+      "published": "Sat, 14 Nov 2026 12:00:25 GMT"
     },
     {
       "category": "Gaming",
@@ -259,11 +275,11 @@
     },
     {
       "category": "Gaming",
-      "title": "Fable montre une nouvelle vidéo de gameplay qui fait très peur aux fans - Journal du Geek",
-      "summary": "Fable montre une nouvelle vidéo de gameplay qui fait très peur aux fans &nbsp;&nbsp; Journal du Geek",
-      "source": "Journal du Geek",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTNvM0J4d3hkQUV5UzZ2enRlN3pWR21OTWhoYl9qMW05cVc2bGFRekNFZktEUm1xWUpMam1QYkQwSGVrWkdnVzdTWEhPRUJGYl96aldsZk9oZVFRTUJlUkVOMDhVcmpnRUx6d1dPX1FOdVZHY3U1T3pXUl9kTHpwTXd2cnBRZDVZNVd5NnY5RzRkUG9WNVZ5VVJid0tialkyYm1ZWGM5RUlZVnkzYk9fNmVEdw?oc=5",
-      "published": "Fri, 13 Nov 2026 13:05:07 GMT"
+      "title": "Villefargeau : participez au prix Micheline et découvrez la quinzaine du jeu vidéo à la bibliothèque - L'Yonne Républicaine",
+      "summary": "Villefargeau : participez au prix Micheline et découvrez la quinzaine du jeu vidéo à la bibliothèque &nbsp;&nbsp; L'Yonne Républicaine",
+      "source": "L'Yonne Républicaine",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX09iTFRBY3BVN3VtbjBQOU9VNkliOC00d2JLWlRnSWFTcXItc1FQZnFxdlowNF94ZFFNZ0U0NWs1ZktSRGRabEVJclZWOG1MX1VWOFhVaVItQmJRTW1YdjY1TGtDSXZOb0dxUVVSZ2NHYTVFWGNKOVpLd3RfdHJNV0JkcWRVMkwwRC1rTE1ucUoxREp5Z2tpdW9aUnBJa2JnclFaUkp6NzVfbFJxNnRYMFJWaVZ4OGp2QmRyNWJYRTFxc2VQVEhMNDdZMG5tdVdFRWV0aHhka2ZEUEFSRlE1elFkalZ6Zm5IdkNPOENn?oc=5",
+      "published": "Sat, 14 Nov 2026 04:19:00 GMT"
     },
     {
       "category": "Gaming",
@@ -275,14 +291,6 @@
     },
     {
       "category": "Gaming",
-      "title": "Villefargeau : participez au prix Micheline et découvrez la quinzaine du jeu vidéo à la bibliothèque - L'Yonne Républicaine",
-      "summary": "Villefargeau : participez au prix Micheline et découvrez la quinzaine du jeu vidéo à la bibliothèque &nbsp;&nbsp; L'Yonne Républicaine",
-      "source": "L'Yonne Républicaine",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX09iTFRBY3BVN3VtbjBQOU9VNkliOC00d2JLWlRnSWFTcXItc1FQZnFxdlowNF94ZFFNZ0U0NWs1ZktSRGRabEVJclZWOG1MX1VWOFhVaVItQmJRTW1YdjY1TGtDSXZOb0dxUVVSZ2NHYTVFWGNKOVpLd3RfdHJNV0JkcWRVMkwwRC1rTE1ucUoxREp5Z2tpdW9aUnBJa2JnclFaUkp6NzVfbFJxNnRYMFJWaVZ4OGp2QmRyNWJYRTFxc2VQVEhMNDdZMG5tdVdFRWV0aHhka2ZEUEFSRlE1elFkalZ6Zm5IdkNPOENn?oc=5",
-      "published": "Sat, 14 Nov 2026 04:19:00 GMT"
-    },
-    {
-      "category": "Gaming",
       "title": "GTA 6, le Trou Noir de la galaxie jeu vidéo - New Game Plus",
       "summary": "GTA 6, le Trou Noir de la galaxie jeu vidéo &nbsp;&nbsp; New Game Plus",
       "source": "New Game Plus",
@@ -291,27 +299,19 @@
     },
     {
       "category": "Gaming",
-      "title": "1 personne sur 3 travaillant dans l'industrie du jeu vidéo a été licenciée durant ces deux dernières années selon un sondage - ActuGaming",
-      "summary": "1 personne sur 3 travaillant dans l'industrie du jeu vidéo a été licenciée durant ces deux dernières années selon un sondage &nbsp;&nbsp; ActuGaming",
-      "source": "ActuGaming",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcm9HeEd4QXA2QmNCU0xSZGJqbXNLWkxyMkZhVWp1UXI0aGJtd2lLRmxGODJJamt3ZXZ4RTJqaFJWaG5GSG5zVEZhOW1CWmJrNERtQUktTXhTNTNKUy1SV0hvNmNpTVVRbzZVYlFfS1h6ejJPWW5pSFAtOVR6TDF3SFZZaVotVnZGTGgxUzFwQlBfd2pzVGNVQ0ZFMHBxNDBYdkY2STREdDRCZG9hMXpMZTd5LWxxYkNsVl84YkpLTlVnS0hoVzB6WlNVeHpSNWc4clBoOElYMDkwOGRCUDh5bGdOdnVYQQ?oc=5",
-      "published": "Fri, 13 Nov 2026 13:35:02 GMT"
+      "title": "Bienvenue dans le Game - Quand l'Afrique s'empare des codes de «GTA» pour créer ses propres mondes - RFI",
+      "summary": "Bienvenue dans le Game - Quand l'Afrique s'empare des codes de «GTA» pour créer ses propres mondes &nbsp;&nbsp; RFI",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcDlWTjZEb3ZDSXkxa2tWRk5rZUx6eWFMMlgxUmZlU0xrU29GbjF1UThuRjdnVWFtc2FPRFFVQ0hJR00tbXVwVUJJU0Q2TXY5TG50QlcySm9EZThZdjdGZDd1STNiRkF5bDd1TE5TekR1cmVUTkptVUw4eWZPWTFKX3QwZ1gwLWdDblk5YlItREJfcjZIeWc3ZUxaalNPRWlFZkVueFNhcnJzUi1weUJ1VlVBZ2MyQTJ1ajFMNHBXbm9SMnM0RFo4Nld6UXZ1YjYyZmg4SjBn?oc=5",
+      "published": "Sat, 14 Nov 2026 09:10:30 GMT"
     },
     {
       "category": "Gaming",
-      "title": "Kickstarter ludique : le succès se lit-il avant le lancement ? - Gus and Co",
-      "summary": "Kickstarter ludique : le succès se lit-il avant le lancement ? &nbsp;&nbsp; Gus and Co",
-      "source": "Gus and Co",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHV0ZWJ6NmtfZl9waTZQNjNJT1JtX0VTQzRyZHlTZFpfTDk0VThRYlJtWG1OQlNvV1EyNTBUOGhGQXZmUFgzbW8wc3RfbFVsQVg3ZGJUMXk0SkVZMkhhRjlodDBFNmdTRGpzRXoyOTVHR0hRU0RadkJKcm1weEdaakpUSVNSYkFjZGJF?oc=5",
-      "published": "Sat, 14 Nov 2026 06:00:00 GMT"
-    },
-    {
-      "category": "Gaming",
-      "title": "SEGA et RGG Studio détaillent l’Acte 2 de l’aventure narrative STRANGER THAN HEAVEN - Actualitesjeuxvideo.fr",
-      "summary": "SEGA et RGG Studio détaillent l’Acte 2 de l’aventure narrative STRANGER THAN HEAVEN &nbsp;&nbsp; Actualitesjeuxvideo.fr",
-      "source": "Actualitesjeuxvideo.fr",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEhUR3ctZjl5Q3JrTHlncGpwVGxTM3ljLUJVWnhxMzFnRC14Sy1IM2l5TlBuLS1aNXpUcjhJUjFZa1ZsanAxdWFaQ2JjVWlHazJYNGdfbFZ1QWNXazdpejBaV2pVMnE5dGdKZmtESFQ1VkpvTGJLRUx0UkpOVkhBTWluUTZ6cWdSSGd1akk5UTI1a2JKVVh4OXpDbk9VZnNTRXFmU3dKNEJGczdtMWZESnhEMURxdF8z?oc=5",
-      "published": "Fri, 13 Nov 2026 17:02:34 GMT"
+      "title": "Silence on joue ! «Ocarina of Time», «Castlevania», «Remothered», «Penguin Colony» - Libération",
+      "summary": "Silence on joue ! «Ocarina of Time», «Castlevania», «Remothered», «Penguin Colony» &nbsp;&nbsp; Libération",
+      "source": "Libération",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNDNYNDkxR2MxWUwzbzVLbnFQSVZtdzhWMG9hQTM4SUFmMmFhSThXTmc3NV93TWc2M2FMUjhQaWF3YmFuMVdPMDBkYTNrM0UzRGlxMG9zMDBNbnRaTWtDSnlwUjFFQktYMG9zU05QSjN0dzMyT0ZmYnQxWnM1eEZVSjhfMzZNdVdXVEQxUG5KRGVOZVI0ZkNvV2RiNG11YjlTRUI1TlJsRXhPVmNQQVBrWEZlbkVmSjJkR2dTRDhUcWV0c1JoVUxxa0dISUx6VEZpWXFha1BfVm53bzUwWHliNmcyUVBqUQ?oc=5",
+      "published": "Sat, 14 Nov 2026 12:09:00 GMT"
     },
     {
       "category": "Gaming",
@@ -320,14 +320,6 @@
       "source": "franceinfo",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFI4UUNCOVJvNXhvZ24zVnlVT3l5ZDFRaU1PT2dBa0dZZ2h1WWcwN1ZoUU1hVG4za0lzWTR1N3hVeVE5QklqbXNUVGtkR2lLT1FJUnR0WlFSR2tvejRWS0VjeUtCbGNmTU5xVVA5VUxWWEpGQlE0QmVoNkdVUEppZURrdXI2TWU0WTdweXdPdlh3TVV1eXBWRy1yZ1FLbzRjemQyUGNwZFo2X3VaQm5yb2o5MkpVQjlaN1c1OW8wbV9iNGt6cTc0?oc=5",
       "published": "Fri, 13 Nov 2026 20:55:51 GMT"
-    },
-    {
-      "category": "Tech",
-      "title": "\"On va aller évidemment beaucoup plus loin\": Orange remodèle ses applications Orange et Sosh pour en faire des hubs de services dopés à l'IA et ouverts à tous - BFM",
-      "summary": "\"On va aller évidemment beaucoup plus loin\": Orange remodèle ses applications Orange et Sosh pour en faire des hubs de services dopés à l'IA et ouverts à tous &nbsp;&nbsp; BFM",
-      "source": "BFM",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSlFBQTV0clpKLVlKcFJWNkl4c2pBajVmUWJEUTE2THhMdFBiRUZqYmlPRGlVLVhSRzBwajMxaEplcHlkZWJLOE5oVkVCZUJJX21xM0stWUc3MGlmdTVSbG95Y0x4c0NIOUY3SmZMc3kyRVNiUE83VlM1WFdUUzNfTkFVTmlZWkNIdkVuVVhTNWFudHo5c0JkWlBxV2hqT01hTF9KVVppTFFjbnh2WEtVTk5fbTAtZjVGVDNQdHd0Z1VmOTVPano1QXF5QzI4RlFEdWtNS2pXS3laTGVTdDlxTXIwTnlGTG11OHdTdHdmVGh5TTZLYnQ1bE5jRGNHaDhnMFVQZjFnY0Ruc2l3QmJiSGtLR0J4S1RvV2ZzSVZCTzc3bHM2bE56b0dvNnFvejQxcC1ObXBFMm1reEo5T3hQSFRmVjhvZw?oc=5",
-      "published": "Wed, 11 Nov 2026 07:09:00 GMT"
     },
     {
       "category": "Tech",
@@ -400,6 +392,14 @@
       "source": "Région Ile-de-France",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZk0wWV80UmU0NmtQYzl3R0ZuZ0FkektpeGtoS0FPdXNidUgyWG01TmY3TmJWejE3UFphRDItN1JteTZMV0o0WlBaVFgxRG94RDRVUGlNRjdaNDNCXzU0RjE2ZE9ObU5VeG1KZFFxMEtjMVI5TkJVMzFXeFZkMlZDYmZnN1Q?oc=5",
       "published": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Vos apps Android codées avec l’IA arrivent sur Google Play Store : voici ce que ça change concrètement - Journal du Geek",
+      "summary": "Vos apps Android codées avec l’IA arrivent sur Google Play Store : voici ce que ça change concrètement &nbsp;&nbsp; Journal du Geek",
+      "source": "Journal du Geek",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNlZxZlpvejFDdXItNV9sY2xESTZqekVmY256QnlPel9nbnpqNlVlTUdGMVNSbnFGUDZ2WXF3bWxyUV9ldll3Z2tmWVRIWlVJZUV2eUhoQVo1ZHJIZU5aV3BkS2NZWHZYYlV4VldGbE9WZVJHaWxUVG5fb1ZfVF9VQWE1cEUtVWI2VnBhNGM4QmNFUDEwR2o0b2p1c0JjamxHVkd3akdRakp3eTc0c0RDMnBJa1VYMFp2dFJaekwyOHJzWFhTX0R4dTd2OEVzSVN3eWRKdmlnY0s?oc=5",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT"
     }
   ]
 }
