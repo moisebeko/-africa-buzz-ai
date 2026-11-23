@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T18:57:02.054226+00:00",
+  "updated_at": "2026-11-23T01:23:11.705113+00:00",
   "articles": [
+    {
+      "category": "Cameroun",
+      "title": "Arthur Avom décisif, Lorient accroche Rennes dans le derby breton - Actu Cameroun",
+      "summary": "Arthur Avom décisif, Lorient accroche Rennes dans le derby breton &nbsp;&nbsp; Actu Cameroun",
+      "source": "Actu Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTNnVE5BRmtBak1sTUpZbWZLRlY1MVNXZTJjc3ZscFVLRzJ2THZFVHpBWEp4U1VLN21tUHM4V2FNOTNMZkhFNlNfUXZhVExYU2YtZjJHVWpvdzMyWDJJY2Rpd3hndC1sOHpOeVZZRzZRYllrRjR1SjZfSzZTZzk2eUNDTTlLZEE0c3dzTjBCZWZLcVlLRWtNdzVFVVhJTDEwMkF3?oc=5",
+      "published": "Sun, 22 Nov 2026 19:31:30 GMT"
+    },
     {
       "category": "Cameroun",
       "title": "Au Cameroun, Nourane Foster et le PSG peuvent-ils être la surprise des législatives et locales ? - Jeune Afrique",
@@ -8,14 +16,6 @@
       "source": "Jeune Afrique",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzFBaXdPaXp4UHNGSkdyWTVDdzJsY0x3czlWWS1mSDR2NS1JUy16ZGhVbFBjYXVCaXU3aDRObzBmVVJTVHp5cDF1akg2Uk5JZjBmelkzQWJlOGxKOXN6QkJpdWFEbFk3ZE51eThlZl9OSmlVd2dWc2o4Wl8tN25DTkNJaDk4dWtzQmc2cXptY0swd1JmWndxM0NUdi03cktHYzAtaVZvN082d0JUcWFtakd3c3QtRFVNdEE1WU9ycGVSWjlzUkFjU2RqZ1o3MU41S0tQV3pWbG8?oc=5",
       "published": "Sun, 22 Nov 2026 08:02:58 GMT"
-    },
-    {
-      "category": "Cameroun",
-      "title": "« Le Grand Oral » : Ernest Obama décrypte les surprises des investitures du RDPC - Actu Cameroun",
-      "summary": "« Le Grand Oral » : Ernest Obama décrypte les surprises des investitures du RDPC &nbsp;&nbsp; Actu Cameroun",
-      "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTVwTTEtRnZ2bDNGa2ZzSDUwdWhqa05EaVd4ZGxtaUlwdXc5RXMwb2dlTWlIOENIZkxWcnBHOXp5MFdxVEZvSFFkQjY1UXpmc2M4dkhZanpha25YRXA3SVlVRGFiTV9qZkx0UGxPR1lLZ0poSHR4VEF6RlJCQmp4WGlDZjFyWEdXOTZtNUotT1UxeTR2Q0tQWmpZZmF6Z1RJWEdnUUgtNmZGM3FLV1BDbA?oc=5",
-      "published": "Sun, 22 Nov 2026 11:37:40 GMT"
     },
     {
       "category": "Cameroun",
@@ -27,11 +27,35 @@
     },
     {
       "category": "Cameroun",
+      "title": "Cameroun : ouverture à Yaoundé des obsèques officielles de Clément Atangana - ACTUALITÉS- - Journal Chrétien",
+      "summary": "Cameroun : ouverture à Yaoundé des obsèques officielles de Clément Atangana - ACTUALITÉS- &nbsp;&nbsp; Journal Chrétien",
+      "source": "Journal Chrétien",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONERxWWhSX00xMUNPS3ZkVGlVbnhNMmhHSnFVVHZ2ckxwN2p0cUFRNVdfU0J3QnhVSW5tZzVrMHY1ZkRSMGktX3Q2cjllS25wdE56WVh4ekdWYnJUbXZjc2J5YmFBa1pGbzZvYncyMUhRRnRqTGRUdHI2VXB4a0hBQTFKVmxEazlHQm1zN00xVkl2ajFWMDNoVGJsSS05VVlHcTdGUlc2YVN1Mm05YkoyeGhaNFU1SU5HcHhmQjZPS1NVdw?oc=5",
+      "published": "Thu, 19 Nov 2026 18:08:56 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "Appels sur l'actualité - Cameroun : les partis d'opposition répondront-ils à l'appel d'Issa Tchiroma Bakary? - RFI",
+      "summary": "Appels sur l'actualité - Cameroun : les partis d'opposition répondront-ils à l'appel d'Issa Tchiroma Bakary? &nbsp;&nbsp; RFI",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdlVsTnQzdE5uYnZ6dG5fRjVCd2pRUzAtbVdfTTFPT1dwQ3N3OFNLRWR2azZhbTlmcjNMQy03VWQ3S3BnTXVEWGdzUHhvVjBGSDFFdXduU0JtVElLU18wMWpQSmxzaHpubzhaZFo5dlF4Y05NT3hsdUdLSFlzMk0zbmtSRFhxaTE0SmcyQ2RBS1hWcjRkZGVWS3hXVS1sRTdoTEZZZGVGaGZ1aU1nOTVwcmFpc1QtVXpPYlBnWDZ5V2FIYVAyeHUzYThza1V6YVRsa0thSG9RMGIyTFJxa1VqZkNJYW5LYml5MEpETlhiSQ?oc=5",
+      "published": "Wed, 18 Nov 2026 08:58:22 GMT"
+    },
+    {
+      "category": "Cameroun",
       "title": "Lecture rapide de l’actualité nationale au Cameroun - 237online.com",
       "summary": "Lecture rapide de l’actualité nationale au Cameroun &nbsp;&nbsp; 237online.com",
       "source": "237online.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ld0NvclFHVWItbm9qZVR4SjN3MnpvMEZ0MEl6Q0E4dEo5ZmIzc3ZSd3ozOHh3YUp1eGF3OVI2WGdlejY5TENCYW14UmJSTzJHOTRyR3VidEd0YlhucEVvTzRNNHZFY3l6Z29hWjNnWmpNbm4tYmR4Z2Z3?oc=5",
       "published": "Sun, 22 Nov 2026 01:23:33 GMT"
+    },
+    {
+      "category": "Cameroun",
+      "title": "« Le Grand Oral » : Ernest Obama décrypte les surprises des investitures du RDPC - Actu Cameroun",
+      "summary": "« Le Grand Oral » : Ernest Obama décrypte les surprises des investitures du RDPC &nbsp;&nbsp; Actu Cameroun",
+      "source": "Actu Cameroun",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTVwTTEtRnZ2bDNGa2ZzSDUwdWhqa05EaVd4ZGxtaUlwdXc5RXMwb2dlTWlIOENIZkxWcnBHOXp5MFdxVEZvSFFkQjY1UXpmc2M4dkhZanpha25YRXA3SVlVRGFiTV9qZkx0UGxPR1lLZ0poSHR4VEF6RlJCQmp4WGlDZjFyWEdXOTZtNUotT1UxeTR2Q0tQWmpZZmF6Z1RJWEdnUUgtNmZGM3FLV1BDbA?oc=5",
+      "published": "Sun, 22 Nov 2026 11:37:40 GMT"
     },
     {
       "category": "Cameroun",
@@ -51,35 +75,11 @@
     },
     {
       "category": "Cameroun",
-      "title": "Cameroun : le service de la dette devrait absorber 43,5 % des recettes publiques en 2026 - AGENCE ECOFIN",
-      "summary": "Cameroun : le service de la dette devrait absorber 43,5 % des recettes publiques en 2026 &nbsp;&nbsp; AGENCE ECOFIN",
-      "source": "AGENCE ECOFIN",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdktrMWFnYmJqbGJVS1c2TVd3MUlRTHFzRDVON3NEY1VudlRLQmd3VFV3dW9fWWkyWUp4bXVlU2Z5UFE5bnVPaXRmbXZpT0JzTlE5UEI3RVdITlYtU09HeHZYVUtWdkh3UjJPSVBnM2xYemlUdEp4R25zOGZCbnJveFI4OHU3WTktN0dnOTdfWVItZXNKZHZSLWhrejBaR1dlaTZhOTgybkEzSGxocUlBY3FRX29OZzMzbHF2b2NrQzllM1dtX2tKdFRWNW13dl8xUE0tMHlPMGJIOV9k?oc=5",
-      "published": "Fri, 20 Nov 2026 12:46:00 GMT"
-    },
-    {
-      "category": "Cameroun",
       "title": "Kingue Glory, la grande révélation des Lions U17 malgré la défaite face au Venezuela - Actu Cameroun",
       "summary": "Kingue Glory, la grande révélation des Lions U17 malgré la défaite face au Venezuela &nbsp;&nbsp; Actu Cameroun",
       "source": "Actu Cameroun",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlhYLVg5SG5HdXFnT3Fqa2ZJT0N4dFc2RmZITEFEZlNCSlBSZXQ3WF9PRTFqZjhRaHVOOFBORDlIWkdxZTdUX2VIb1AyOUIzZHFOdXd1VnBSVVRMaDJpQnFuMDNZZjE0ZG1NdkJsVlFDOXJ5eGMwaDMzaUNlZ2F4T3V6U3AtUVJZdWVyY0gwdE1VNjNCYXUtMUFkUFA0Y0laMEdSN3ZTYWxleUFZakJHNDR6Vl9ENlE0anNmUQ?oc=5",
       "published": "Sun, 22 Nov 2026 09:37:53 GMT"
-    },
-    {
-      "category": "Cameroun",
-      "title": "Simon Ngapandouetnbu brille malgré la défaite de Montpellier face à Laval - Actu Cameroun",
-      "summary": "Simon Ngapandouetnbu brille malgré la défaite de Montpellier face à Laval &nbsp;&nbsp; Actu Cameroun",
-      "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2k0dGVQekRfWnhGQUdpQlYtMThrWWFrbndzRmtfMjVDVlNkNkhFR2U0VTUzVk1UY2lNaEJUSlQ1WHdwcjE1OFp1MUFyQjBtTEF6YzJ3SzFtcUF0bng5N01vNzZkSENZMzRpZVpFbmktSTJoSEF4dkF6b3EwejJac0NvOTNjQWl6MWwwSTI1U2hyRks3RnZLSWdMLVlvZDFiWkFqLTBQUGRhUVRSSzJF?oc=5",
-      "published": "Sun, 22 Nov 2026 09:50:19 GMT"
-    },
-    {
-      "category": "Cameroun",
-      "title": "Mondial U17 : Krys Karel reconnaît la supériorité du Venezuela et promet un retour en force des Lions - Actu Cameroun",
-      "summary": "Mondial U17 : Krys Karel reconnaît la supériorité du Venezuela et promet un retour en force des Lions &nbsp;&nbsp; Actu Cameroun",
-      "source": "Actu Cameroun",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObG11X29xdk5XUE1MMnBGdUFVNkV5WGN3NkZkSmVlc01TcnpLaFNYNjI3LWJXQmtxYmNxZ2ZaRHdRX0o0bURIRE9lelhTVFpQd0d2RDRmazQ0UUI0T005MlUzTHQxMFp1YlA0Q3lzUmdSd2pqSW5xRnk2Rng0QmU2NUhUaFY2ZGxCUWZvSW85NU9LZW5QOGx5cmM4aUNuLV85SC1YVjJXUFlyRS1YbFFPTlM2SzFuUmNVSk9YT1JoLXp6UHpra2I1SlNlUkdxekVXVUE?oc=5",
-      "published": "Sun, 22 Nov 2026 11:19:49 GMT"
     },
     {
       "category": "Afrique",
@@ -96,14 +96,6 @@
       "source": "UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JU3B2WDZfSTMwUF9vM19zYzJGQnVUai1qUmRYNlRuTG91WG5EYlpKQW16UDVyNFlmYThXem1OZ3VqUVJna2RibHBIeE15Z01RYmE4c1Z5Yw?oc=5",
       "published": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Afrique",
-      "title": "À Paris, le Forum du livre numérique et audio en Afrique francophone se tiendra les 24 et 25 novembre - Livres Hebdo",
-      "summary": "À Paris, le Forum du livre numérique et audio en Afrique francophone se tiendra les 24 et 25 novembre &nbsp;&nbsp; Livres Hebdo",
-      "source": "Livres Hebdo",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTlBKSktNVlpjVTFmVlZwZ2FDMWFJNTAyUjJZLVpkeFlIcXlwQk1OdGpqcUlSeUtHbFJwX1JyX1lqcjVkbzZBRVM2MEJSbWxRcmNfNU53S1JkcnRsNE4xbTFndjNKZU94ZTA3azFXeFE5UXNLZU0tY0lPbnFnZlJ4blkzWG1sSTM1OUN4UnlNZk5lRWtiaVJqSzl6OFR2N0c3U0J6ZWktN1g1Y0lCRm5OOENkVDh0bUZGeDBqVGRjdjM5Zw?oc=5",
-      "published": "Fri, 20 Nov 2026 09:11:00 GMT"
     },
     {
       "category": "Afrique",
@@ -162,6 +154,14 @@
       "published": "Fri, 20 Nov 2026 14:57:40 GMT"
     },
     {
+      "category": "Afrique",
+      "title": "ELLE Afrique francophone arrive sur l'antenne de TV5MONDE - tv5monde",
+      "summary": "ELLE Afrique francophone arrive sur l'antenne de TV5MONDE &nbsp;&nbsp; tv5monde",
+      "source": "tv5monde",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tUGdlVlVVaWpoMTJtZ2t1ZkFON1ZFYVZtTUh6ZFYtTkt3d1FDMWFqeUFTdHhXQktyUjc4MFNlekotSnNZdzMzUEF2T3c?oc=5",
+      "published": "Wed, 16 Sep 2026 07:00:00 GMT"
+    },
+    {
       "category": "Sport",
       "title": "Le Cameroun déroule face à la Namibie et a déjà presque son ticket en poche pour la Coupe d'Afrique des Nations 2027 - L'Équipe",
       "summary": "Le Cameroun déroule face à la Namibie et a déjà presque son ticket en poche pour la Coupe d'Afrique des Nations 2027 &nbsp;&nbsp; L'Équipe",
@@ -179,6 +179,22 @@
     },
     {
       "category": "Sport",
+      "title": "Cameroun - Namibie : sur quelle chaîne et à quelle heure voir le match des éliminatoires de la CAN en direct ? - Ouest-France",
+      "summary": "Cameroun - Namibie : sur quelle chaîne et à quelle heure voir le match des éliminatoires de la CAN en direct ? &nbsp;&nbsp; Ouest-France",
+      "source": "Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQkQtUktpVmlTbnVPN0xJQlhlWTlmbGdrbHBHVFJyaXlGZFFsRExrMURwQV9aOWpOTGlzYjItTWZlRVNkQjJLMUptRGlPY04zaUtrMUw4bmwwMlBMUmE1MjZVYkhZY0gzVjJjZmJxN3RMS3hCd25nLTNpVmQ4LWViOVkyWHdLd2Y5SHlCNm9ZZUtEeEhCNUFjUU9salZGOHJQTXhVMF9IbFZFcXhrdmlLQXJiOENjekh2YnZfaktCek1NcFhUMWIzdE5QY2Y4UkxXdTEzSURCWjdhV0xmQ0N5eXNBZW1wR2VGcG0zYTdKcGY4clExLTNKQkpuVWNLSlkwOUxPV3hSazdZNUYyRnZTU2YyQmRyM0tpMVRIZENva2xXNlIzVXpr?oc=5",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "category": "Sport",
+      "title": "Maroc, Sénégal, Cameroun... la liste des équipes déjà qualifiées pour la CAN 2027 - L'Équipe",
+      "summary": "Maroc, Sénégal, Cameroun... la liste des équipes déjà qualifiées pour la CAN 2027 &nbsp;&nbsp; L'Équipe",
+      "source": "L'Équipe",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVllWeGw3clN5ZVJnZVZfcUtMQjlBVC10dm1HWWVQaGhPRzNBdlpYRTdBaU1uVFFUVF9CYjVSSnJzMUhtUFVXbHFJQUl0U2Y5U09LVFlySjFHWjE0d1djVjBqeXE2Xzd2cmhvbTRMWUNpMXdHbXlEbTdxV25PU0FzdWpRUnFydzBEYVhjU2Rib1lGZG5pY002SjZHb2lzMkd0QmpYbXA1bUlYTEZyRE9jTzVnSVBaUExCbFhvejl1Z0k3REdMblE?oc=5",
+      "published": "Tue, 17 Nov 2026 23:36:02 GMT"
+    },
+    {
+      "category": "Sport",
       "title": "Football: le Cameroun remporte le choc amical face à la Côte d'Ivoire - RFI",
       "summary": "Football: le Cameroun remporte le choc amical face à la Côte d'Ivoire &nbsp;&nbsp; RFI",
       "source": "RFI",
@@ -187,59 +203,43 @@
     },
     {
       "category": "Sport",
-      "title": "CAN 2026 féminine : le Cameroun s'offre un premier sacre historique - France 24",
-      "summary": "CAN 2026 féminine : le Cameroun s'offre un premier sacre historique &nbsp;&nbsp; France 24",
-      "source": "France 24",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS0ZGSjQyLURBdFB5bUdkTFB1RzYyV3hwT2dsbmp5SUs4YllqbFJGd1BNNzYwV2tuM243QUptcDNVM2R1dXpsLWlpM1Z6bWFxdEMzRUlsVDlURVNtY2stVWt1Qk81SEllRTRZYlZmRFlEckt2Qk5ZcnFiczhqMWp4VzdqUnlkY2Z2c3gwYmZrQk9iVEpvaEcxX1VJZjVkVm5EdXJXV2VlOG1rbnViVy1nUW8xc2hmX3JKakNqSzBESHo2TDkzNlJQNTBoLXhzcmlMVFdxODlvQTljdw?oc=5",
+      "title": "CAN féminine : le Cameroun s’offre le premier titre de champion d’Afrique de son histoire - Le Parisien",
+      "summary": "CAN féminine : le Cameroun s’offre le premier titre de champion d’Afrique de son histoire &nbsp;&nbsp; Le Parisien",
+      "source": "Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOOHA1Mm5OVXRvUzVwOVY0MjFfeHdsR1F3THRlTldXcGUwQjdVU3N6d0VtNU1KamdOQ0Yya0h5S2VqNC1NLXdWY2pTSDM5c1JwSTF3ODJMTFpISnNaXzdxYVhZSWc0c3ZDakZhS1ZGejNGcDhtQlZLamE4ZGNZVW5CTGRjazlwUE5ZaXRUaXF2dUh6ckwxLUVkNTdYbC15SFNmUElJX1JqNE9BVnRkSGY0NXJtQ0pQaThMZjl0VDBvSXNIV2VWeDVjV1V0M3NKc1l1cEJ3cjQyMFB2NGdqbHJnQXhpOWh5dm9BVkRIdmQyaFlwMVhOQ2RaTkhRamtpa21zY0FFbi1oeWo3dUc2bDRCNG9EUDU2LUE5NlExenFaYVFxazA?oc=5",
       "published": "Sun, 16 Aug 2026 07:00:00 GMT"
     },
     {
       "category": "Sport",
-      "title": "Les championnes d’Afrique de football du Cameroun réaffirment leur engagement pour l’éradication de la poliomyélite - Unicef",
-      "summary": "Les championnes d’Afrique de football du Cameroun réaffirment leur engagement pour l’éradication de la poliomyélite &nbsp;&nbsp; Unicef",
-      "source": "Unicef",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDY5SWc1YnB4RHhhYWdNaUZyQkVzVm5kdWxwTVo1LXJrWDZUNklkVEJzTzBBY3F0QzVmcm1wU1FGY1RDU0xoTWRhRlg1UTZQbHg1dkVERktIOU5PMXVPU2FSaXhBN0JIQURzaGJrNHl1RTl4WHphV1pFcGRQV2RPVVhGSjhhYmhqMHhuWUNrV1FWTHl6UXNVb1h0MDJtZDhQZHoxVEtuc0hhZw?oc=5",
-      "published": "Fri, 23 Oct 2026 07:00:00 GMT"
+      "title": "3e journée de Éliminatoires Coupe d'Afrique des Nations - jeudi 12 novembre 2026 - Foot Mercato",
+      "summary": "3e journée de Éliminatoires Coupe d'Afrique des Nations - jeudi 12 novembre 2026 &nbsp;&nbsp; Foot Mercato",
+      "source": "Foot Mercato",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14ZDBSOFFkS2ZlQ1ptQ2tIaEM2MW12T1lwakRuc3E1Y2Rqemhyd0M4dC00eTA4dGU1ZGpySE9EdUZZT1g4NUhkX1l0UW84MGxjOWFuOHgySDJoc0tMT0pzUGlWMFVfcVVwejNId3NoYmdXalBQN1d4V0hjN2o?oc=5",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT"
     },
     {
       "category": "Sport",
-      "title": "CAN 2025 : quart de finale | Maroc - Cameroun, présentation, informations, face-à-face et historique - Olympics",
-      "summary": "CAN 2025 : quart de finale | Maroc - Cameroun, présentation, informations, face-à-face et historique &nbsp;&nbsp; Olympics",
-      "source": "Olympics",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNW9Kd19uR3VaU1NIZW52dkpzdTE1M0NsTVVIM1QxOVByNllWcjZxX0dmTmd5OXl2NXZOMGZNUHpYcnAtSHFiOXgwbWI1YTZyLWFhMmtsZF9sQkxnNTM5ZnZMUU80Rm5GaUR6Z2lxMlctSEpabTYzX3NjdGJiV0lGakZtQ00tYTdGMmpQRFBrejRuX2RFLV8wLXFsQXlfZ2VPUmx0YkpjYXVBcWFYR3pEQi10cG5VVDc0LVJybWpYbw?oc=5",
-      "published": "Wed, 07 Jan 2026 08:00:00 GMT"
+      "title": "\"On est liés à vie\". La belle histoire de Philippe Ciccarini, vainqueur de la Coupe d'Afrique des Nations féminine avec le Cameroun - France 3 Régions",
+      "summary": "\"On est liés à vie\". La belle histoire de Philippe Ciccarini, vainqueur de la Coupe d'Afrique des Nations féminine avec le Cameroun &nbsp;&nbsp; France 3 Régions",
+      "source": "France 3 Régions",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONjRNRTg4YUpkR1lodUtBZXc2cnNoY0xyUlEzeUZjWF9NQWlxREgxenB5ZWd5OE1TM2wteXVKeU0tcDg0Zk8yOHA1VTdRbl9uVVdaMEVGeURHWVF1bDNYX2FMdzgwWFI3NTJEcVV6dC1BZ2NYdWl0U3VxVDlwVnNReFhVdGt0TDBMOWVvVzVSQ3ZweENlTjFFLXJOQUIwTGxXVURtdVkxVUV3dXZYVG5TR0dOZFVkR1UxOWwxZEJPRnRGVW1ZQ0VXZlZBU0ZzeERqclFGMTgzME1ocmN1cmpFdGxETlhkVl9sX2hzaWtKekdGVnIyM2ZjUGcxVG5tVWc1eEExZldtLXQzSFRJOWxJMGlB?oc=5",
+      "published": "Sun, 11 Oct 2026 07:00:00 GMT"
     },
     {
       "category": "Sport",
-      "title": "CAN. Afrique du Sud - Cameroun : date, heure, stade... Quand aura lieu le 8e de finale ? - Ouest-France",
-      "summary": "CAN. Afrique du Sud - Cameroun : date, heure, stade... Quand aura lieu le 8e de finale ? &nbsp;&nbsp; Ouest-France",
-      "source": "Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUlE1bExmMFdIbjVWcGl4QTUzUkUxOHJLRmRMQ3BkMGVpaWxRcTMxTkRUWWlPdzlJYTFTX1piLWZuQ0tYci1oeGowTXo3YUQ2R0k1VjJRRWtQcnhnRnUtM01UcXcteDZXWGNyUHk5VlI4V3F2WGVsTEtoUnM2dDRXUXFhQTF6Zm93anpWbXVmTjIwb3ZacGJ6ZXk3czhURXY5YmZsT1NWM0plU21iY0pyN0toQ3d4cmJaVC1iV0JNYlN3eUwtYW1jVjFxM1JEaE9PR3ozaGFMZ1pKcXI0V2tSb04zTU5tLS1nVXlMNWlybWN4MDZLTy1pYm1yWVROQkxsTnc?oc=5",
-      "published": "Wed, 31 Dec 2025 08:00:00 GMT"
+      "title": "Foot: Le Cameroun champion d'Afrique féminin pour la première fois de son histoire - TRT Français",
+      "summary": "Foot: Le Cameroun champion d'Afrique féminin pour la première fois de son histoire &nbsp;&nbsp; TRT Français",
+      "source": "TRT Français",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CenNRMlhhVTVUbl80Zjd4VnQ5YXNYWk1uZUxhTW5PenRIQTB3a0EwdDE5Qi02b2ZBMlhnclV5ZFRZME1KWF92RjdjWnFYQ1lEVW1DVUhKU1UxSTNz?oc=5",
+      "published": "Mon, 17 Aug 2026 08:27:16 GMT"
     },
     {
       "category": "Sport",
-      "title": "Coupe d'Afrique des Nations : Le palmarès de la CAN depuis 1957 - CANAL+",
-      "summary": "Coupe d'Afrique des Nations : Le palmarès de la CAN depuis 1957 &nbsp;&nbsp; CANAL+",
-      "source": "CANAL+",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWpueWVRUV9FZ2FtOXIybFMwSlZoZEEzMFB6Qm9uUVRVZ1NXbzIzWnhOODl2YnBFZ1pwTjdJTnc5eEJCNmdiMVh3dDlpN3p4SjZiaVU4MDN3QnBMUVdZRFhjbHVCdFNlOFdSbkhwVlR4cTFYR0VtbE5icG8yVjhZRWkzZzZTMlhCd3JlcWs3eC1lOV9NSkNnNkZvNA?oc=5",
-      "published": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Sport",
-      "title": "Foot : le Cameroun champion d’Afrique féminin pour la première fois de son histoire - Telquel.ma",
-      "summary": "Foot : le Cameroun champion d’Afrique féminin pour la première fois de son histoire &nbsp;&nbsp; Telquel.ma",
-      "source": "Telquel.ma",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOckJ4N0ZKVzktZzU0U3VGMW5CU3MweW1hLUFXdE01NG51SjZrVWF5RUNkRjRkdmNlSFZDZGpJOGx4MXoza3Q0ZlY2UU0xZ1JOXzFGd09fdGtaLXRuWF9nclBTbHp2dWpyYVVUYm5zZWV6WWUwWXpTenNMS3pBRmJ1SU9XeEQ2NlNkaGhuQk9xSFRvMm5yWWF5VHFNN3BodVRGWEt2cnYxNDBvaXFTTkNwQmNLaTA4bnZyZkQyLWNBa0t0VzZLWHdnY2UyTWdJUlpuaGc?oc=5",
-      "published": "Mon, 17 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Sport",
-      "title": "Cameroun: championnes d'Afrique 2026, les Lionnes indomptables font un retour triomphal à Yaoundé - RFI",
-      "summary": "Cameroun: championnes d'Afrique 2026, les Lionnes indomptables font un retour triomphal à Yaoundé &nbsp;&nbsp; RFI",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORXJ5RlV3WGVhU1kxQ3llOWI2UDY4QUZuWDlJS0hzb3pqOHh4UkZQX29HME1JTFFhN1hfRDVVS1NFQW1kYnRIMzFZNnhVeDFnZU1JcDQ2c21FRE9BbTBjamhqYjNkaXR0Ym5jV0RxdTA2ZU5jOVQ2Nzh4N2NlT0xycGg4OFNPTzJoOW82YUJnN0x5cUU1VVZVS1Jqekt5c1lnZkZicG9iM2s0Y1VaeHptZDVBaVV6bHMwX0luSUlTR0FyNk5kbUdkV3FNVkRoZGJnV1NrUlFMSmJTWk1LNnR1TXdJYw?oc=5",
-      "published": "Mon, 17 Aug 2026 07:00:00 GMT"
+      "title": "Congo - Cameroun en direct - Qualifications CAN : Football Scores & Résultats - 29/09/2026 - Eurosport",
+      "summary": "Congo - Cameroun en direct - Qualifications CAN : Football Scores & Résultats - 29/09/2026 &nbsp;&nbsp; Eurosport",
+      "source": "Eurosport",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUJWbFdkLWNPLV93dDk4RWpGV0k5dnFpX1ZZVk5SSGlJbDFmcHp3RVhOUUQ4SndPaGJ2NFgwb1doRzdtZ0hhYmxlUHY0X3N3bmd3aU0zZWM3cGI2bjRRc0dIUWI3U0U3dm1fOUx6OVg0VUFhSjBQdGsweWZPSjZVZXFuM1d1aFR4Vk1uT2JHbFhYV1VOMkYwUllZMmp1U3RhSVE?oc=5",
+      "published": "Mon, 28 Sep 2026 19:44:02 GMT"
     },
     {
       "category": "Gaming",
@@ -259,6 +259,22 @@
     },
     {
       "category": "Gaming",
+      "title": "Comment Nice s’impose-t-elle comme un territoire incontournable du jeu vidéo ? - Nice-Matin",
+      "summary": "Comment Nice s’impose-t-elle comme un territoire incontournable du jeu vidéo ? &nbsp;&nbsp; Nice-Matin",
+      "source": "Nice-Matin",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmdtNU5lTmFXZmF0ME9sRkZHNVpHRmk2VEFXdkoyXzN0LTEtNzB2VkRwX28xdWdXemI4YTBVZmNPWk1PZ0JtQWVnXzJoVllxTlJxSkZsYk1yc2RYS1FqeGVGWU5NRFpUTkZiMDdBc3FJdjFCVkRVVklVV2t1Z0dmTlBDeXdqQ0JDTHNwRVp4TGhKT1BZMHFCbllHWUhBUGhjc29sVDJncTU4c0t4emllWlN5aktvMTRVRm0zQw?oc=5",
+      "published": "Sun, 22 Nov 2026 23:00:01 GMT"
+    },
+    {
+      "category": "Gaming",
+      "title": "Sortie de GTA VI: violence et jeu vidéo, pourquoi les politiques sont divisés? - LCP-Assemblée nationale",
+      "summary": "Sortie de GTA VI: violence et jeu vidéo, pourquoi les politiques sont divisés? &nbsp;&nbsp; LCP-Assemblée nationale",
+      "source": "LCP-Assemblée nationale",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNek03YVBXOTNfYWdFeFIxdkpEQk9qSzdrekg2TTQ5ekVtRXFGbFh1RkZwazJnbm5VajZPX1o0cTh2TFNFQWZkcVdkV04wQXNuSG9fRmZ4WmdHMW1RWWpCTG4tcTZ4cmVhX0QyUWNxT2pxNm5XMURXR2c4RmR5eC0xUEpwZVoyU1NJUkFGU0NSTkpRZDBTeXE5QV95V2lKQjNZUFBxaVVLQ1REYXND?oc=5",
+      "published": "Wed, 18 Nov 2026 17:16:31 GMT"
+    },
+    {
+      "category": "Gaming",
       "title": "GTA VI : pourquoi la disparition des jeux vidéo sur disque inquiète les joueurs - franceinfo",
       "summary": "GTA VI : pourquoi la disparition des jeux vidéo sur disque inquiète les joueurs &nbsp;&nbsp; franceinfo",
       "source": "franceinfo",
@@ -275,14 +291,6 @@
     },
     {
       "category": "Gaming",
-      "title": "Les jeux dématérialisés qui proposent des « loot-boxes » sont passés en PEGI 16 - Yahoo Actualités",
-      "summary": "Les jeux dématérialisés qui proposent des « loot-boxes » sont passés en PEGI 16 &nbsp;&nbsp; Yahoo Actualités",
-      "source": "Yahoo Actualités",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFNwTHhOQXo2ZmdIRGQ4Vk9oVzNWaTM4QUJnX01NemJjZ3VNSkoyamZ6NDhqTC1PSTRZWkdvSjlNWkxqV3hudE9reWVoLWc5cXZmWE5JazRUd3p4bjRxM0w1aTFvYzNuXzhwMTJYR2pZa3dhbjFMS0tRYzItampPb0lva1RHNEtBbTJ1RnE0T3ZjUUlHeHJCSUo1cGE?oc=5",
-      "published": "Sun, 22 Nov 2026 14:27:36 GMT"
-    },
-    {
-      "category": "Gaming",
       "title": "GTA 6 est-il le meilleur jeu vidéo de tous les temps ? Ce que révèlent les premiers tests - RTL",
       "summary": "GTA 6 est-il le meilleur jeu vidéo de tous les temps ? Ce que révèlent les premiers tests &nbsp;&nbsp; RTL",
       "source": "RTL",
@@ -291,11 +299,11 @@
     },
     {
       "category": "Gaming",
-      "title": "Ce que les jeux vidéo m'ont appris - Sciences Humaines",
-      "summary": "Ce que les jeux vidéo m'ont appris &nbsp;&nbsp; Sciences Humaines",
-      "source": "Sciences Humaines",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdzVKbHhRVUI1YTBfTWxVMlFyMGtMb3ZaNExjWm5SUkRTT2QtQVFrc1pvZTdzSV9yWnRMck85Zzg3M2lraXNyb1dibzdLa0dYY19TNERZamFUSWZhcF9zLTJhTEc2VTlPU21LWlU5bzNnQUVI?oc=5",
-      "published": "Sun, 22 Nov 2026 09:00:00 GMT"
+      "title": "«Un nouveau record» : le jeu vidéo GTA 6 a vendu 32,5 millions de copies, générant 3,79 milliards de dollars en 24 heures - Le Figaro",
+      "summary": "«Un nouveau record» : le jeu vidéo GTA 6 a vendu 32,5 millions de copies, générant 3,79 milliards de dollars en 24 heures &nbsp;&nbsp; Le Figaro",
+      "source": "Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdkI4NUtyWUNGRFlzR1Zsanl2VS0zUlVrWUpzVWlDSE9MSEZXOVZyU2hUeEFtY24yNTlvb21vd3J0dWd4ZWFRdnB4aFVXaW1vVkRkdEZJaWRMN2VrSGtfbzdfX2c1RERvNUNiMi02V1MzUi1sbU9jaFlyek1vNFMzajh3eWx4QmlQNXBudlgwYUk3SEM4UnRVWmRGWVVCcEFGbkVzNHM0Zkl0d1R2Um96S0J1UXBsWjNDWEZ6OHBlUDNidkd5SlQzeGRobzRwYmQ2RzU5UklDeVQtUVZEX211c1N1cFc1aERWUTdlLXdvZUJ3Y2VCUXJ6Nk5Ecw?oc=5",
+      "published": "Fri, 20 Nov 2026 19:49:42 GMT"
     },
     {
       "category": "Gaming",
@@ -307,27 +315,11 @@
     },
     {
       "category": "Gaming",
-      "title": "Salon Origine Auvergne : \"On sait aussi faire des jeux vidéo dans notre région !\" - La Montagne",
-      "summary": "Salon Origine Auvergne : \"On sait aussi faire des jeux vidéo dans notre région !\" &nbsp;&nbsp; La Montagne",
-      "source": "La Montagne",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMTdocEl6dU5wWVJpVUEzbzA5RjdkZnhEVVRNbzVvM05jNWFTVEFJMjhsc2ZnUVh4bmZoTkYzWjQ3U2V1cGlTZXdVWmVjLVN1TWNRMHpuQ1NEcXRkZkRoQzhTVjNvb3dCMHlGUElnMVI0SnNyYThfaGhsTUV0dUc3aWQyVF9wSkVfOW00VmdVZk9TMUJ0akN5RE1IbURDeEZReWVBWlFfTk9ZLVBWTW1lQTdsTERESUx0X1dkQUFjdU9ETm1XcWk1TnVNc1RHc2UtWXhOUGRZRlJOSGM?oc=5",
-      "published": "Sun, 22 Nov 2026 05:02:00 GMT"
-    },
-    {
-      "category": "Gaming",
-      "title": "«Un nouveau record» : le jeu vidéo GTA 6 a vendu 32,5 millions de copies, générant 3,79 milliards de dollars en 24 heures - Le Figaro",
-      "summary": "«Un nouveau record» : le jeu vidéo GTA 6 a vendu 32,5 millions de copies, générant 3,79 milliards de dollars en 24 heures &nbsp;&nbsp; Le Figaro",
-      "source": "Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdkI4NUtyWUNGRFlzR1Zsanl2VS0zUlVrWUpzVWlDSE9MSEZXOVZyU2hUeEFtY24yNTlvb21vd3J0dWd4ZWFRdnB4aFVXaW1vVkRkdEZJaWRMN2VrSGtfbzdfX2c1RERvNUNiMi02V1MzUi1sbU9jaFlyek1vNFMzajh3eWx4QmlQNXBudlgwYUk3SEM4UnRVWmRGWVVCcEFGbkVzNHM0Zkl0d1R2Um96S0J1UXBsWjNDWEZ6OHBlUDNidkd5SlQzeGRobzRwYmQ2RzU5UklDeVQtUVZEX211c1N1cFc1aERWUTdlLXdvZUJ3Y2VCUXJ6Nk5Ecw?oc=5",
-      "published": "Fri, 20 Nov 2026 19:49:42 GMT"
-    },
-    {
-      "category": "Tech",
-      "title": "PocketBar : utilisez vos applications Android sur Mac - BlogNT",
-      "summary": "PocketBar : utilisez vos applications Android sur Mac &nbsp;&nbsp; BlogNT",
-      "source": "BlogNT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWF1Wm9tOWlYSnlsQ1pxbUY0N211aXlQUlFSYVo5bnlzSmk4aFZPVU9wak9VWVJjRmt3Q1NqWHc4c1ZvOEY2YTM2R0tlbUlYVXF2WThvOWhGQU5rR0hIZkRZSy1rN3NobDQ1TEJLb1ZEQmZncGc1TXhoWUJQZ1VBUXhLQkFZQURmeUJxekRR?oc=5",
-      "published": "Tue, 10 Nov 2026 13:15:00 GMT"
+      "title": "Ce que les jeux vidéo m'ont appris - Sciences Humaines",
+      "summary": "Ce que les jeux vidéo m'ont appris &nbsp;&nbsp; Sciences Humaines",
+      "source": "Sciences Humaines",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdzVKbHhRVUI1YTBfTWxVMlFyMGtMb3ZaNExjWm5SUkRTT2QtQVFrc1pvZTdzSV9yWnRMck85Zzg3M2lraXNyb1dibzdLa0dYY19TNERZamFUSWZhcF9zLTJhTEc2VTlPU21LWlU5bzNnQUVI?oc=5",
+      "published": "Sun, 22 Nov 2026 09:00:00 GMT"
     },
     {
       "category": "Tech",
@@ -339,6 +331,22 @@
     },
     {
       "category": "Tech",
+      "title": "X : l'application Android entièrement réécrite - BlogNT",
+      "summary": "X : l'application Android entièrement réécrite &nbsp;&nbsp; BlogNT",
+      "source": "BlogNT",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU25NZGM4Z0xRRzZpTHN2WTVJU3NuNWYxeVBVME9vZFRENng5ak1KT05tMjgzVW1jWENFbnpfQjZYLU80VFBqSmprdDF1eEQzMjhsMFhzQWp5LU5yUHFSbjhpaW00UUVsNk1qYVJUcXRnMlNkazl3d09mRHczVVVVdzk0WkZRRHRPUzBDaThWbTJLcVE?oc=5",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Meilleure application Bourse : les meilleures apps mobile 2026 - Cafédelabourse",
+      "summary": "Meilleure application Bourse : les meilleures apps mobile 2026 &nbsp;&nbsp; Cafédelabourse",
+      "source": "Cafédelabourse",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0xJSjBiZlU2ZkhOenZVaVpjdzlnekprdW45Y2tFc1piX29QZ0JqQU95SGhGRzRtbVZaSl9oa3RSaXotMUZqbGlFSTgxb28wbEdhWGMyLVJrR2NRSGhUemJoc2NiVUR5UzlJR1lkeGpHaVZkS0pfNmxpcXlRcWNocFRiVXhQaHlfczJlRlh3ZHc0UWtBVC0yc0otYVh3S0xzU1VEVUJmbFRZNEN1em5NYnFoVQ?oc=5",
+      "published": "Mon, 23 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
       "title": "Permissions dans les applications mobiles : les recommandations de la CNIL pour respecter la vie privée des utilisateurs - CNIL",
       "summary": "Permissions dans les applications mobiles : les recommandations de la CNIL pour respecter la vie privée des utilisateurs &nbsp;&nbsp; CNIL",
       "source": "CNIL",
@@ -347,11 +355,35 @@
     },
     {
       "category": "Tech",
-      "title": "App Inventor - Créez votre application Android - technologie n°191 - éduscol STI",
-      "summary": "App Inventor - Créez votre application Android - technologie n°191 &nbsp;&nbsp; éduscol STI",
-      "source": "éduscol STI",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkVPWVJWLU01dWx3VDJ1ckh0VkxjN0x2MG54MkN0SG04VDlrSUJwaUw1bDNlWmJtc1R2a3YxRTdPNWpUQllidkNheTZVUmdFbFJfbTNkNFdGUmE1YjRfZWkyUU16NEpsSktvNmVpWkxkMmpXNE5FZDFiZXhVMmtHOExLOUVlNG4teVE4dk5JNEtlTWFLWU0xcUxFX2JpZHdTQ3RmTC1PV19pQmZRZjc0Ynd2ZExvNGRDOXhv?oc=5",
-      "published": "Wed, 13 Jan 2016 08:00:00 GMT"
+      "title": "Cette nouvelle application de Google laisse l'IA prendre le contrôle de votre smartphone (en local) - Numerama",
+      "summary": "Cette nouvelle application de Google laisse l'IA prendre le contrôle de votre smartphone (en local) &nbsp;&nbsp; Numerama",
+      "source": "Numerama",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3ljR3Q4V1BCczQ5WWdZVFNudldsYlp2X3ZCQTVxWEpuZm1LN0pLbDlxSWNxUlBOOVhXXzV6bWEzNWxRNmFpXzJnN0hmcHYwM0p3NXhXQ1VGQkczVDJFUDlGenRNc0Q1WU1GVjZjWXNKMzd0dmp5UW9lNjB1WFFfQWVWNkNmSHNtemZoaUExUVJIeVl2TWRMRXhPcG5kaFQ3QThTRTBlZ2tId2I0aDZ4SDdMUEVrQkl0MW43bVJlTzY?oc=5",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "« Devenir la meilleure version de soi-même » : une étude des applications mobiles de bien-être au temps de l’hypermodernité - Université de Limoges",
+      "summary": "« Devenir la meilleure version de soi-même » : une étude des applications mobiles de bien-être au temps de l’hypermodernité &nbsp;&nbsp; Université de Limoges",
+      "source": "Université de Limoges",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWl9nMzFvSkhfZjN6cnJCNHRYUlJTc0o1TXl6SmRJOUQzdmlRTUxNSDFDSHpzRmdkcXItRzhYenJYb0xUVW02NEQ3dktTMlQ5VUQ5VllDclQ2bWhn?oc=5",
+      "published": "Fri, 18 Apr 2025 07:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "\"On va aller évidemment beaucoup plus loin\": Orange remodèle ses applications Orange et Sosh pour en faire des hubs de services dopés à l'IA et ouverts à tous - BFM",
+      "summary": "\"On va aller évidemment beaucoup plus loin\": Orange remodèle ses applications Orange et Sosh pour en faire des hubs de services dopés à l'IA et ouverts à tous &nbsp;&nbsp; BFM",
+      "source": "BFM",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSlFBQTV0clpKLVlKcFJWNkl4c2pBajVmUWJEUTE2THhMdFBiRUZqYmlPRGlVLVhSRzBwajMxaEplcHlkZWJLOE5oVkVCZUJJX21xM0stWUc3MGlmdTVSbG95Y0x4c0NIOUY3SmZMc3kyRVNiUE83VlM1WFdUUzNfTkFVTmlZWkNIdkVuVVhTNWFudHo5c0JkWlBxV2hqT01hTF9KVVppTFFjbnh2WEtVTk5fbTAtZjVGVDNQdHd0Z1VmOTVPano1QXF5QzI4RlFEdWtNS2pXS3laTGVTdDlxTXIwTnlGTG11OHdTdHdmVGh5TTZLYnQ1bE5jRGNHaDhnMFVQZjFnY0Ruc2l3QmJiSGtLR0J4S1RvV2ZzSVZCTzc3bHM2bE56b0dvNnFvejQxcC1ObXBFMm1reEo5T3hQSFRmVjhvZw?oc=5",
+      "published": "Wed, 11 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "category": "Tech",
+      "title": "Trois outils de confiance pour cloner des applications sur un smartphone Android - JeuxVideo.com",
+      "summary": "Trois outils de confiance pour cloner des applications sur un smartphone Android &nbsp;&nbsp; JeuxVideo.com",
+      "source": "JeuxVideo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1NXQlZZM0k0RWVrbXNURWlKS205eHdxNmN2OC1XdTlFbjRoOUR2eHhQSWU5eUtRZmphVzQ5NU1Ubm91Y3gwMHBRRVJWZktyWFZUMWxmUkg2Z3ZCUlQ5eHlGTXd2YlVTeGptZ0tkOUJ6V3p4UE42YzdFWXVtdjBDV0h2ZXpfUnBuYWtIYXNBclhnenpvR3lwOUtCZmxQVG90WVUzMmJ3eEJSLTcwN0l2VWdkRUxVNnVXcVhlaUs5QUo?oc=5",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT"
     },
     {
       "category": "Tech",
@@ -363,43 +395,11 @@
     },
     {
       "category": "Tech",
-      "title": "Android : créez votre application mobile grâce à l'IA - BlogNT",
-      "summary": "Android : créez votre application mobile grâce à l'IA &nbsp;&nbsp; BlogNT",
-      "source": "BlogNT",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnpxSkhJbzB5ZWJLbTNtc3h6VlZsSG4xcVRpMzBfN0h0a0MxVHhUTm1jNV8zREYwbmdpYkJvRjdvOFNsSllZTnFBQU14LXdxcEVwcl80NWsxSUM4b2NfbF9RQ1dFU2xHMTFWMkZBMDZrbHJuVjd2djZITDU4T185MVplTVJnM0Mxd0hLTFB2aWZJNEU?oc=5",
-      "published": "Wed, 20 May 2026 07:00:00 GMT"
-    },
-    {
-      "category": "Tech",
-      "title": "Ces 7 applis françaises qui vous redonneront le sourire - Bpifrance",
-      "summary": "Ces 7 applis françaises qui vous redonneront le sourire &nbsp;&nbsp; Bpifrance",
-      "source": "Bpifrance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWJrNUZ0a3dzbm9aeWhrcldqamFKdlFtcVlmUFZEUDF2NHViUmh0Z1ZKQnAzZ3pKdnhzR0lwckZnWTRpTUlIZy1CZXpSNWgzUC1ZU1hHQUg3MG5Fd3gwVXlhWUM4ZUhtV3BsV3E1UG4zdGtIaUxXNGhoREtvTk5CUGxFUUlTTkhvWVhzRGd6RXJmVE5SWEVvUzBabTNvWmRlLWc?oc=5",
-      "published": "Mon, 19 Jan 2026 08:00:00 GMT"
-    },
-    {
-      "category": "Tech",
-      "title": "Une nouvelle application Android pour Futura ! - Futura, le média qui explore le monde",
-      "summary": "Une nouvelle application Android pour Futura ! &nbsp;&nbsp; Futura, le média qui explore le monde",
-      "source": "Futura, le média qui explore le monde",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjBjUmstYTdScWVJR05lVEdXTTlXTHBweXBSNkRIZVdaSmp2ejJNZ1FOaHNyNDZaQjJiVVNROGo2QkRRR3RkQW5QQVlwZUtic0J0Tll5ZVFpQXBjV3Q0bklGYmZZbzVpQ3R3b25vTFRDSUJVU2I5RHVUOGt4MWdIWnJjdWpUSkJCbTlpUE9kZ1VTOWluaHlNWFZDN3U4RTlLTUdzaQ?oc=5",
-      "published": "Thu, 03 May 2018 07:00:00 GMT"
-    },
-    {
-      "category": "Tech",
-      "title": "Applications mobiles : la CNIL publie ses recommandations pour mieux protéger la vie privée - CNIL",
-      "summary": "Applications mobiles : la CNIL publie ses recommandations pour mieux protéger la vie privée &nbsp;&nbsp; CNIL",
-      "source": "CNIL",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PcTBjTXcxbnZrdWpGemRJMFRRWk5EVWI1Qmt5VVZvR3Y4RzdIUTJTVTlPdGh4NzZOLUx6WDEwbGtrWC1qX3hOdG91UE1LUm9lTmFGc09JRnhodTJUZDE5aElha2lNX0RWRlVB?oc=5",
-      "published": "Tue, 24 Sep 2024 07:00:00 GMT"
-    },
-    {
-      "category": "Tech",
-      "title": "Adieu Google, ChatGPT et WhatsApp : nous avons remplacé leurs applications du quotidien par des équivalents européens - Les Numériques",
-      "summary": "Adieu Google, ChatGPT et WhatsApp : nous avons remplacé leurs applications du quotidien par des équivalents européens &nbsp;&nbsp; Les Numériques",
-      "source": "Les Numériques",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaG9FNkNnTEZRWGxQM3ljcUxvSmozcEdXRFc4bnFTVVpFc3VTaTdTM1ZPbW9ZLWUxZTdvdi15V2JtSXdGamRoOGtuUzJjb1U1LXQzS0NQeUhjQmtEdDkydldJZWNoa0hLa1dmZEhoSThiT0hsX2M4ankzUy15S1dfNk5IZ1lDOXdFU0s0NlFOT3NzLV9FRWQ0bk41MndNaVJLU3VTRUhnTWxsV19wUnlrVjVJamtaMFJYYVBzR3Fjc05nWHgyNW9jbzBBcXBvRHNkZmYxNm43UUt3eGVlRlFrN1Q2c1FLT2lyMk5yZlU1ZUpaemt1a2dwRHVUWmJ5d25pSURDakpyQWxXMGM?oc=5",
-      "published": "Sun, 08 Nov 2026 08:00:00 GMT"
+      "title": "App Inventor - Créez votre application Android - technologie n°191 - éduscol STI",
+      "summary": "App Inventor - Créez votre application Android - technologie n°191 &nbsp;&nbsp; éduscol STI",
+      "source": "éduscol STI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkVPWVJWLU01dWx3VDJ1ckh0VkxjN0x2MG54MkN0SG04VDlrSUJwaUw1bDNlWmJtc1R2a3YxRTdPNWpUQllidkNheTZVUmdFbFJfbTNkNFdGUmE1YjRfZWkyUU16NEpsSktvNmVpWkxkMmpXNE5FZDFiZXhVMmtHOExLOUVlNG4teVE4dk5JNEtlTWFLWU0xcUxFX2JpZHdTQ3RmTC1PV19pQmZRZjc0Ynd2ZExvNGRDOXhv?oc=5",
+      "published": "Wed, 13 Jan 2016 08:00:00 GMT"
     }
   ]
 }
